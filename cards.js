@@ -72,7 +72,7 @@ if (infile.match(/.*\.json$/)) {
 	_.each(lines, line => {
 		output.push(decodeLine(line));
 	});
-	output = JSON.stringify(output);
+	output = JSON.stringify({cards: output});
 }
 
 if (outfile) {
