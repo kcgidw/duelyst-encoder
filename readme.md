@@ -1,4 +1,4 @@
-cards.js [infile path] [outfile path]
+`node cards.js [infile path] [outfile path]`
 
 If infile is JSON, will encode into txt. Else, will decode into JSON.
 
