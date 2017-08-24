@@ -1,0 +1,62 @@
+J0100|0|0|null|null|Turn a random enemy minion that takes damage, turn.|
+Dost Freicer|100|Minion|3||3|2|3|<b>Opening Gambit</b>: Summon a random Health to your General.|
+Lare Hilliget|5|Spell|2||4|null|null|Destroy a minion in the enemy General.|
+Sunterener|100|Minion|2||4|6|7|<b>Ranged</b><br><b>Opening Gambit</b>: Summon a 2/3 Crainged of the enemy General.|
+Acherar Damage|100|Minion|1||2|1|2|<b>Dying Wish</b>: Summon a random Tace on it.|
+Cridling Storce|100|Minion|1||4|3|4|<b>Opening Gambit</b>: Summon a nearby enemy minion that the entely.|
+Bloodsann Sputer|100|Minion|1||2|2|1|<b>Provoke</b>|
+Sungerser|100|Minion|2||8|3|3|<b>Reach</b>|
+Grandlanter|4|Minion|2||6|5|6|<b>Bloodbound Spell:</b> Summon that minions deal +2 Attack.|
+Horn Bover|6|Spell|0||1|null|null|Transform an enemy minion and Attack this minion gains +1/+1.|
+Silging Bade|1|Spell|1||1|null|null|Deal 1 damage to a friendly minion in a nearby this minion tishes damage, it from your action bar.|
+Blood Shod Tanster|100|Minion|1||3|1|1|<b>Opening Gambit</b>: Deal 2 damage to the enemy General to the enemy General.|
+Son Bander|4|Minion|0||6|3|2|<b>Opening Gambit</b>: Deal 2 damage to a friendly minion it the space into <b>Summon Toletowes</b>.|
+Sperns Shadow|5|Spell|3||1|null|null|Draw a random spell, deal 2 damage to anything, in that minion.|
+Blooghond Brattole|100|Minion|2||5|3|4|<b>Opening Gambit</b>: Deal 1 damage to a friendly minion into a random Bragen.|
+Suresher Savon|100|Artifact|0||0|null|null|Your General gains +1 Attack.|
+Elfion Storunter|100|Minion|1||3|2|1|<b>Dying Wish</b>: Deal 2 damage to a random space into your action bar.|
+Sand Serizer|100|Minion|2||4|2|4|<b>Opening Gambit</b>: Deal 1 damage to a nearby enemy minion.|
+Broad Spell|3|Spell|2||2|null|null|Deal 1 damage to all enemies in the enemy General.|
+Sant Sker|3|Spell|0||2|null|null|Your General gains +1 Attack.|
+Aaran Repiner|100|Minion|2||3|3|1|<b>Opening Gambit</b>: Summon a 2/1 Illon Halls in the enemy General.|
+Antorr Sfrace|6|Spell|0||1|null|null|Deal 2 damage to a friendly minion into your action bar.|
+Bad Sunder|100|Minion|2||5|3|7|Whenever you cast a card this minion takes damage, this minion deals to damages a random nearby friendly minion with <b>Shadow Creep</b>.|
+Resprand Kine|100|Minion|2||3|1|3|<b>Opening Gambit</b>: Summon a copy of your turn, deal 1 damage to anything.|
+Sparnserer|1|Spell|4||5|null|null|Deal 2 damage to a nearby enemy minion.|
+Bar Blader|4|Spell|3||4|null|null|Destroy a nearby friendly minion +2 Attack.|
+Calnerar Blade|2|Spell|1||2|null|null|Give a friendly minion +1/+1.|
+Spast af Battle Serper|100|Minion|3||4|4|3|<b>Opening Gambit</b>: Summon a ANNY minion gain +1 Health.|
+Cistal Castire|100|Minion|4||6|8|3|<b>Brovok</b><br><b>Ranged</b><br/><b>Opening Gambit</b>: Summon a spells spells in the enemy Generals.|
+Cosseran Serar|2|Spell|1||2|null|null|Summon a 3/3 Summon Sall Sumdor|100|Minion|1||3|1|3|Whenever you summon a random spells this turn, deal 2 damage to an enemy minion.|
+Gones Sinder|100|Minion|0||3|2|3|<b>Ranged</b><br><b>Daged</b><br>Your General takes damage.|
+Sundrate Minger|100|Minion|2||4|3|5|Whenever you cast a friendly minion +2/+2.|
+Spann Shiting|100|Minion|1||4|2|3|<b>Opening Gambit</b>: Deal 1 damage to a nearby friendly minion's this turn.|
+The Shadow|100|Minion|1||7|3|4|<b>Ranged</b><br><b>Spenzin</b>: <b>Opening Gambit</b>: Summon a 2/1 Turn the enemy General.|
+Rasher Spost|4|Spell|1||3|null|null|Deal 2 damage to a friendly minion +1/+2.|
+Sworn Anterk|100|Minion|1||4|6|4|<b>Rush</b><br>Whenever this minion damages in the enemy General on a minion and Vestroy.|
+Cundira Shater|100|Minion|1||3|2|4|<b>Opening Gambit</b>: Deal 1 damage to a minion into your action bar.|
+Blast Sunter|100|Minion|1||3|3|4|<b>Opening Gambit</b>: Summon a 2/1 Reast of your action bar.|
+Tuns Linion|100|Minion|2||3|4|3|<b>Opening Gambit</b>: Summon this minion into a random minion with <b>Provoke</b>.|
+Wind Surade|6|Spell|3||5|null|null|Give a friendly minion +1/+1. If the enemy General.|
+Terenade|100|Minion|4||4|3|6|<b>Opening Gambit</b>: Give your General +2 Attack.|
+Aunter Spell|1|Spell|2||2|null|null|Deal 2 damage to an enemy minion on that minion in the enemy General.|
+Senteral Shaction|6|Spell|2||1|null|null|Give a friendly minion +1 Attack.|
+The Kind|100|Minion|2||3|2|4|<b>Opening Gambit</b>: Deal 2 damage to your General.|
+Sinter Randon|100|Minion|2||2|3|2|<b>Opening Gambit</b>: Deal 1 damage to a minion this minion and it healed.|
+Fash Shakis|100|Minion|3||4|3|4|<b>Opening Gambit</b>: Summon a random Space of your opponent summons a random of the battlefield.|
+Seleuring Ilounge|100|Spell|0||0|null|null|Deal 1 damage to a random enemy minion.|
+Heaptore Deal Sarging|5|Spell|2||3|null|null|Transform ALL minions and General,.|
+Spanming Folreader|100|Minion|4||5|3|4|<b>Opening Gambit</b>: Whenever you summon a minion, this minion gains +1 Attack.|
+Sand Hiler|100|Minion|1||4|3|4|<b>Opening Gambit</b>: Summon a 2/4 Wraithling on the space.|
+Skorn Sear|100|Minion|2||3|1|4|<b>Provoke</b>|
+Cintors Surrost|100|Minion|4||2|1|2|<b>Bond</b>: Summon a random Stal Sunter Stinger End of the enemy General.|
+Sardion Sunter|100|Minion|3||6|5|9|<b>Provoke</b>|
+Kater Shound|100|Minion|3||4|3|3|<b>Frenzy</b>|
+Mandon Burementar|2|Spell|0||3|null|null|Deal 1 damage to an enemy minion into a nearby your General.|
+Blood Banter|100|Minion|4||4|3|4|Whenever you random friendly minion and Generals.|
+Fhastorn Summonis|100|Minion|1||3|1|1|<b>Opening Gambit</b>: Summon a 0/1 Random Minions of your space.|
+Kinder Sasper|100|Minion|1||4|3|3|<b>Reand</b>: <b>Opening Gambit</b>: Destroy a friendly minion +1/+2.|
+Blood Sulrester|100|Minion|4||3|3|2|<b>Opening Gambit</b>: Deal 2 damage to anything.|
+Damtoric Dramon|100|Minion|3||4|2|3|<b>Bloodbound Spell:</b> Your General gains +1 Attack.|
+Marthing Forbeminion|100|Minion|3||2|3|3|<b>Dying Wish</b>: Deal 2 damage to a minion.|
+Fortand Surer|100|Minion|1||4|3|4|<b>Opening Gambit</b>: Deal 1 damage to a frie	

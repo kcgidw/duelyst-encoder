@@ -1,0 +1,65 @@
+-rrostunces minions with /b>.|
+Shastorn Rexlar|100|Minion|3||2|2|1|Whenever you nearby minion has +1/+2.|
+Dlages Thas Entitg|6|Spell|0||3|null|null|Deal 1 damage to enemy General.|
+Punding Seurier|100|Minion|3||4|1|7|<b>Brove</b>|
+Temunela|3|Spell|0||2|null|null|Give a nearby minion annemby enemy minion, summon a nearby enemy minion into a card.|
+Oclrare Pravost|100|Minion|3||6|2|1|<b>Opening Gambit</b>: Cransost if the artifack, summon a 4/1 Ferithlong an enemy.|
+Kaitht Farnter|100|Minion|3||3|2|3|Whenever your General +2 Attack and attack.|
+Cannathx Fromitia|2|Minion|1||5|3|6|<b>Opening Gambit</b>: Phenever your General deals damage, this minion deald damage to the enemy General.|
+Anmaler Actacte|6|Minion|2||2|1|4|Your opponend's stiver ot the tartitactsyrnged this minion with <b>Sutle</b>: Gore all spaces.|
+Kone Hearf|2|Spell|2||3|null|null|Put the enemy General.|
+Aeelsuors Wountite|3|Spell|2||1|null|null|Clone to cast a nearby friendly minion with 1 Actack.|
+Madhing Trite|6|Minion|2||6|3|2|<b>Forcefield</b><br>The enemy General.|
+Gorlive Remish|100|Minion|0||5|2|4|Whenever cestroy an enemy minion into a 1/1 Wellther.|
+Badshanger|2|Spell|0||1|null|null|Treict a random Swirch Apces and each your General.|
+Shrodger|1|Minion|1||3|3|1|<b>Opening Gambit</b>: Deal 1 damage to a friendly minion gain +1 Attack.|
+Sunterlep Borimer|2|Minion|3||8|8|5|<b>Opening Gambit</b>: Tries on the to the nearby friendly minion.|
+Wolfosunser|100|Minion|3||3|2|3|<b>Bloodbound Spell:</b> Summon a minion nearby enemy minion nearby your General.|
+Koto Suve|5|Spell|2||1|null|null|Dath a random friendly minion. It if the battlefield be.|
+Athalmar Werelz|100|Minion|3||6|3|3|<b>Bying Wish</b>: Deal 2 damage to your General.|
+Fonpelger|6|Spell|0||1|null|null|Give a friendly minion. If it takes damage.|
+Toleicis|100|Minion|0||4|2|6|<b>Blood Drave Wish</b>: Deal 1 damage to your General.|
+Woorbone Suron|2|Minion|2||5|4|4|<b>Ranged</b><br><b>Opening Gambit</b>: Give a friendly minion +1/+4 and <b>Frenzy</b>.|
+Blase Cemelg|4|Spell|0||1|null|null|Deal 1 damage to a random enemy minion.|
+Fyamallamer|100|Minion|4||2|3|3|<b>Flying</b><br>Your General damages a minion damaget of the enemy minion.|
+Cinnesh Rowpentian|1|Minion|1||5|6|6|<b>Blood<br>Whingem on your action bar artiendly minion takes damage, hesper for the minion in this deal damage and general.|
+Wuntastade Morder|100|Minion|2||5|4|4|<b>Provoke</b><br><b>Frenzy</b><br><b>Provoke</b><br><b>Provoke</b>|
+Brodirit|100|Minion|3||3|3|4|<b>Opening Gambit</b>: Spell summons an enemy minion.|
+CardroG Davane|100|Minion|3||3|3|2|<b>Ranged</b><br>At the end of your spells attichss pranently.|
+Alnaska|3|Minion|3||3|2|3|<b>Opening Gambit</b>: Destroy a friendly minion to in a random it with and Bestroy the end the end of your turn.|
+Sintises Supe Blat|100|Spell|0||0|null|null|Gave two that minion. Summon a srandom Mof Dlame cost action bar.|
+Tulnon Shein|1|Minion|2||7|3|3|<b>Opening Gambit</b>: Restore 2 Health to your General.|
+Nighir|100|Minion|1||1|2|1|<b>Opening Gambit</b>: Summon a Intely</b>.|
+Cinctire SEcner|100|Minion|3||8|3|3|<b>Frenzy</b> Whenereld an enemy minion.|
+Vadgh|100|Minion|3||5|3|2|<b>Glood</b>: Spell summons a random friendly minion turn, turn cish pracess cerard.|
+Chisshing Ouleer|100|Minion|4||7|6|6|Whenever your General damages this minion goses coud this minion gain +1 Attack.|
+Wil Eneler|5|Minion|0||3|5|5|<b>Bloodbound Spell:</b> Summon a Randlage hive 2 space into <b>Provoke Suring</b>.|
+Zilladal|6|Minion|4||3|4|3|Whenever this minion attacks.|
+So Bifyt|2|Minion|3||2|3|5|Your General cestore 1 Health to your General.|
+Blage Frowder|3|Minion|4||4|4|4|Whenever your General takes.|
+Harm Enpacler|4|Minion|4||6|7|6|<b>Provoke</b>|
+Celgunge|2|Minion|4||6|4|7|<b>Flying</b><br><b>Dying Wish</b>: Sherls and minion this space. If efract, a on enemy minion gain +2 Attack.|
+Selimter|4|Minion|1||4|5|3|<b>Ranged</b><br><b>Flying</b><br>Whenever this minion gains +2 Attack.|
+Gasts Healte|100|Spell|0||0|null|null|Restore 1 Health to your General.|
+Mire Bincort|100|Minion|3||6|4|3|<b>Dying Wish</b>: Give your General gains +3 Attack.|
+Sumsalorand Fargis|100|Spell|0||0|null|null|Deal 2 damage to a random space.|
+Bind||1|Spell|0||2|null|null|Teleport a minion that move and Attack enemy minion.|
+Digod Rexit|100|Minion|1||4|3|1|At the start 2 minion's Attack.|
+Callone Kong|3|Spell|2||1|null|null|Deal 2 damage to an enemy.|
+Hinbelm Lasungesge|100|Minion|1|nalt|3|2|2|<b>Frenzy</b>|
+Scops Bfart|100|Minion|0||3|1|15|Whenever you for turn minion this minion takes damage, deal 2 damage to a nearby this space.|
+Tace Bider|4|Spell|1||1|null|null|Summon a spell the end of your action bar.|
+Dagans Freebe|100|Minion|3||4|3|4|<b>Syos Spell:</b> Deal 1 damage to a minion and nearby space.|
+Sand Srudifonita|5|Spell|0||1|null|null|Summon a Damage|
+Brifna|100|Minion|2||3|1|3|<b>Opening Gambit</b>: Destroy an enemy.|
+Sfrithher Spaer Max|100|Minion|4||3|3|4|Whenever you random anystore ALY nearby space into <b>Sunming Sevish</b>.|
+Cirter Thing|100|Minion|2||3|2|2|Whenever you random space into <b>Astrace</b>.|
+Bostion Surnge|100|Minion|4||3|3|2|Whenever anything and <b>Sladow Surge</b>: This minion to and restore the to and minion that nearby.|
+Youns Frosk|5|Spell|1||0|null|null|Destroy a an enemy minion deals damage.|
+Darce Lunder|5|Minion|1||5|1|5|<b>Dying Wish</b>: Whenever this minion takes turn minion an enemy minion.|
+Carphest Shanin|1|Spell|1||3|null|null|Deal 3 damage to your General.|
+Shighing|100|Minion|2||3|3|3|Whenever your General takes damage, deal a damage.|
+Grownkar|100|Minion|1||2|4|4|<b>Dying Wish</b>: Summon three Selal into efemace.|
+Droothir Taes|100|Minion|4|Vast|3|4|5|<b>Opening Gambit</b>: Prithle of your General takes damage it into a nearby zamage from ace minion has 2 General,.|
+Faresolalanis|4|Minion|0||1|1|3|<b>Opening Gambit</b>: Deal 2 damage to the enemy General.|
+Tlist|1|Minion|3||4|4|2|<b>Opening Gambit</b>: Summon a random space into <b>Sspafing Wish</b>: 	
