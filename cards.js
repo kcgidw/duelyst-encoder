@@ -15,7 +15,15 @@ var fields = [
 	"health",
 	"description"
 ];
-var factions = ["LYON", "SONG", "VETR", "ABYS", "MAGM", "VANA"];
+var factions = {
+	1: 'Lyonar',
+	2: 'Songhai',
+	3: 'Vetruv.',
+	4: 'Abyss.',
+	5: 'Magmar',
+	6: 'Vanar',
+	100: 'Neutral',
+};
 
 var encodeCard = (card) => {
 	var str = "";
@@ -45,7 +53,7 @@ var decodeLine = str => {
 
 	card.name = decodeVal(vals[0]);
 	var factionId = decodeVal(vals[1]);
-	card.faction = factions[factionId -1];
+	card.faction = factions[factionId];
 	card.type = decodeVal(vals[2]);
 	card.rarity = decodeVal(vals[3]);
 	card.race = decodeVal(vals[4]);
@@ -94,7 +102,7 @@ if (infile.match(/.*\.json$/)) {
 	action = 'DECODE';
 
 	input = fs.readFileSync('./' + infile, 'utf8');
-	var lines = input.split("\r\n");
+	var lines = input.split("\n");
 
 	if(shuffle) {
 		lines = _.shuffle(lines);
