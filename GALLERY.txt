@@ -1,0 +1,229 @@
+check1000-temp0.5
+    Grandlanter, Horn Bover, Blood Shod Tanster, Elfion Storunter,
+    Bad Sunder, Bar Blader, Sundrate Minger, Blood Banter, Badshanger,
+    Harm Enpacler
+  (Look at all these noun-verbers!)
+
+>>> from old/lost files, but still 0.5 temperature
+
+DUST ASTORT WERLEN
+Neutral Minion (*basic)
+3
+2/4
+<b>Opening Gambit</b>: Summon a 2/2 Action bar.
+
+SUNGERSER
+Neutral Minion (**rare)
+8
+3/3
+<b>Reach</b>
+
+FARTING SPORE
+Magmar Spell (****legendary)
+7
+Summon a random Generals.
+
+<<<
+
+RESPRAND KINE
+Neutral Minion (**rare)
+3
+1/3
+<b>Opening Gambit</b>: Summon a copy of your turn, deal 1 damage to anything.
+
+
+SPAST AF BATTLE SERPER
+Neutral Minion (***epic)
+4
+4/3
+<b>Opening Gambit</b>: Summon a ANNY minion gain +1 Health.
+
+
+THE SHADOW
+Neutral Minion (*common)
+7
+3/4
+<b>Ranged</b><br><b>Spenzin</b>: <b>Opening Gambit</b>: Summon a 2/1 Turn the enemy General.
+
+
+TERENADE
+Neutral Minion (****legendary)
+4
+3/6
+<b>Opening Gambit</b>: Give your General +2 Attack.
+
+THE KIND
+Neutral Minion (**rare)
+3
+2/4
+<b>Opening Gambit</b>: Deal 2 damage to your General.
+
+HEAPTORE DEAL SARGING
+Magmar Spell (**rare)
+3
+Transform ALL minions and General,.
+
+
+SPANMING FOLREADER
+Neutral Minion (****legendary)
+5
+3/4
+<b>Opening Gambit</b>: Whenever you summon a minion, this minion gains +1 Attack.
+
+SAND HILER
+Neutral Minion (*common)
+4
+3/4
+<b>Opening Gambit</b>: Summon a 2/4 Wraithling on the space.
+
+SARDION SUNTER
+Neutral Minion (***epic)
+6
+5/9
+<b>Provoke</b>
+
+BLOOD SULRESTER
+Neutral Minion (****legendary)
+3
+3/2
+<b>Opening Gambit</b>: Deal 2 damage to anything.
+
+MARTHING FORBEMINION
+Neutral Minion (***epic)
+2
+3/3
+<b>Dying Wish</b>: Deal 2 damage to a minion.
+
+CISTAL CASTIRE
+Neutral Minion (****legendary)
+6
+8/3
+<b>Brovok</b><br><b>Ranged</b><br/><b>Opening Gambit</b>: Summon a spells spells in the enemy Generals.
+
+check1000-temp0.6
+
+KINCERS TERISH
+Neutral Minion (*common)
+4
+3/5
+Your General gains +1 Attack.
+
+TICTER SELER
+Neutral Minion (**rare)
+1
+2/2
+<b>Dying Wish</b>: Deal 4 damage to all enemies.
+
+SONS SARUSE
+Vanar Spell (****legendary)
+4
+Your General gains +3 Attack.
+
+STURN MOVE
+Neutral Minion (****legendary)
+5
+4/8
+<b>Opening Gambit</b>: Deal 2 damage to a friendly minion gain +1/+1.
+
+SUNTLE OF MAST
+Neutral Minion (***epic)
+6
+6/7
+Your General deals damage into your action bar.
+
+SWART SWORD MANTER
+Neutral Minion (**rare)
+2
+4/4
+<b>Frenzy</b> in the enemy Generals.
+
+
+SHILIGHTING SPASK
+Neutral Spell (basic)
+0
+Summon a card.
+
+SRIGHT HESPERT
+Neutral Minion (**rare)
+5
+1/2
+<b>Opening Gambit</b>: Your General gains +1/+1.
+
+PORACASTER GARE
+Neutral Minion (***epic)
+5
+2/3
+<b>Frenzy</b><br><b>Flying</b><br>Whenever your opponent summons a random Magad an entack.
+
+
+LADESEROM
+Neutral Minion (*common)
+5
+2/4
+<b>Flying</b><br><b>Blood Surge</b>: The enemy General.
+
+
+SILINGER SAND
+Neutral Spell (basic)
+0
+Summon a friendly minion.
+
+
+
+SOAL WIVER
+Neutral Minion (****legendary)
+6
+3/3
+<b>Opening Gambit</b>: Destroy an enemy minion this turn, deal 2 damage to the enemy General.
+
+
+THASKER
+Neutral Minion (*common)
+3
+3/4
+<b>Opening Gambit</b>: Destroy a friendly minion gain +1/+1.
+
+
+REBLOOTBORT
+Neutral Minion (****legendary)
+5
+4/4
+<b>Opening Gambit</b>: Give a friendly minion and General.
+
+
+SWABEBRISK
+Neutral Minion (***epic)
+3
+2/1
+<b>Blood Surge</b>: Deal 1 damage to all enemies.
+
+checkpoint1000-temp0.8
+
+WOORBONE SURON
+Songhai Minion (**rare)
+5
+4/4
+<b>Ranged</b><br><b>Opening Gambit</b>: Give a friendly minion +1/+4 and <b>Frenzy</b>.
+
+WUNTASTADE MORDER
+Neutral Minion (**rare)
+5
+4/4
+<b>Provoke</b><br><b>Frenzy</b><br><b>Provoke</b><br><b>Provoke</b>
+
+SAND SRUDIFONITA
+Magmar Spell (basic)
+1
+Summon a Damage
+
+BRIFNA
+Neutral Minion (**rare)
+3
+1/3
+<b>Opening Gambit</b>: Destroy an enemy.
+
+FARESOLALANIS
+Abyssian Minion (basic)
+1
+1/3
+<b>Opening Gambit</b>: Deal 2 damage to the enemy General.

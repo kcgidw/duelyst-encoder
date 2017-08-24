@@ -1,13 +1,26 @@
-`node cards infile_path outfile_path --shuffle --copies X`
+### Encode
 
-If infile is JSON, will encode into txt. Else, will decode into JSON.
+Converts JSON data from https://duelyststats.info/scripts/carddata/cardData.json to a simpler text file for RNN
 
-If outfile unspecified, will print to stdout.
+`node encode <infile> <outfile> [--shuffle] [--copies=X]`
 
-See datafiles/ folder for example input and output files.
+`outfile`: Optional. Specifies outfile path and name
 
-Shuffle: Shuffles the resulting data
+`shuffle`: Shuffles result set
 
-Copies: Repeats the data X times. Only applies to encoding
+`copies`: Repeats the dataset X times. Default 1
 
-Data taken from https://duelyststats.info/scripts/carddata/cardData.json
+### Decode
+
+Decodes text file outputted by RNN back into JSON, as well as a prettier text file
+
+`node decode <infile> <outfile>`
+
+`outfile`: Optional. Specifies outfile path and name
+
+### Interesting Notes
+
+At 1000 iterations...
+
+* Torch-RNN figures out very quickly that many minions are "noun-verbers".
+* "Sand", "blood", and "shadow" show up very often. Go figure!

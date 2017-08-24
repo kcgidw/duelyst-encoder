@@ -1,0 +1,469 @@
+DOST FREICER
+Neutral Minion (***epic)
+3
+2/3
+<b>Opening Gambit</b>: Summon a random Health to your General.
+
+
+
+LARE HILLIGET
+Magmar Spell (**rare)
+4
+Destroy a minion in the enemy General.
+
+
+
+SUNTERENER
+Neutral Minion (**rare)
+4
+6/7
+<b>Ranged</b><br><b>Opening Gambit</b>: Summon a 2/3 Crainged of the enemy General.
+
+
+
+ACHERAR DAMAGE
+Neutral Minion (*common)
+2
+1/2
+<b>Dying Wish</b>: Summon a random Tace on it.
+
+
+
+CRIDLING STORCE
+Neutral Minion (*common)
+4
+3/4
+<b>Opening Gambit</b>: Summon a nearby enemy minion that the entely.
+
+
+
+BLOODSANN SPUTER
+Neutral Minion (*common)
+2
+2/1
+<b>Provoke</b>
+
+
+
+SUNGERSER
+Neutral Minion (**rare)
+8
+3/3
+<b>Reach</b>
+
+
+
+GRANDLANTER
+Abyssian Minion (**rare)
+6
+5/6
+<b>Bloodbound Spell:</b> Summon that minions deal +2 Attack.
+
+
+
+HORN BOVER
+Vanar Spell (basic)
+1
+Transform an enemy minion and Attack this minion gains +1/+1.
+
+
+
+SILGING BADE
+Lyonar Spell (*common)
+1
+Deal 1 damage to a friendly minion in a nearby this minion tishes damage, it from your action bar.
+
+
+
+BLOOD SHOD TANSTER
+Neutral Minion (*common)
+3
+1/1
+<b>Opening Gambit</b>: Deal 2 damage to the enemy General to the enemy General.
+
+
+
+SON BANDER
+Abyssian Minion (basic)
+6
+3/2
+<b>Opening Gambit</b>: Deal 2 damage to a friendly minion it the space into <b>Summon Toletowes</b>.
+
+
+
+SPERNS SHADOW
+Magmar Spell (***epic)
+1
+Draw a random spell, deal 2 damage to anything, in that minion.
+
+
+
+BLOOGHOND BRATTOLE
+Neutral Minion (**rare)
+5
+3/4
+<b>Opening Gambit</b>: Deal 1 damage to a friendly minion into a random Bragen.
+
+
+
+SURESHER SAVON
+Neutral Artifact (basic)
+0
+Your General gains +1 Attack.
+
+
+
+ELFION STORUNTER
+Neutral Minion (*common)
+3
+2/1
+<b>Dying Wish</b>: Deal 2 damage to a random space into your action bar.
+
+
+
+SAND SERIZER
+Neutral Minion (**rare)
+4
+2/4
+<b>Opening Gambit</b>: Deal 1 damage to a nearby enemy minion.
+
+
+
+BROAD SPELL
+Vetruvian Spell (**rare)
+2
+Deal 1 damage to all enemies in the enemy General.
+
+
+
+SANT SKER
+Vetruvian Spell (basic)
+2
+Your General gains +1 Attack.
+
+
+
+AARAN REPINER
+Neutral Minion (**rare)
+3
+3/1
+<b>Opening Gambit</b>: Summon a 2/1 Illon Halls in the enemy General.
+
+
+
+ANTORR SFRACE
+Vanar Spell (basic)
+1
+Deal 2 damage to a friendly minion into your action bar.
+
+
+
+BAD SUNDER
+Neutral Minion (**rare)
+5
+3/7
+Whenever you cast a card this minion takes damage, this minion deals to damages a random nearby friendly minion with <b>Shadow Creep</b>.
+
+
+
+RESPRAND KINE
+Neutral Minion (**rare)
+3
+1/3
+<b>Opening Gambit</b>: Summon a copy of your turn, deal 1 damage to anything.
+
+
+
+SPARNSERER
+Lyonar Spell (****legendary)
+5
+Deal 2 damage to a nearby enemy minion.
+
+
+
+BAR BLADER
+Abyssian Spell (***epic)
+4
+Destroy a nearby friendly minion +2 Attack.
+
+
+
+CALNERAR BLADE
+Songhai Spell (*common)
+2
+Give a friendly minion +1/+1.
+
+
+
+SPAST AF BATTLE SERPER
+Neutral Minion (***epic)
+4
+4/3
+<b>Opening Gambit</b>: Summon a ANNY minion gain +1 Health.
+
+
+
+CISTAL CASTIRE
+Neutral Minion (****legendary)
+6
+8/3
+<b>Brovok</b><br><b>Ranged</b><br/><b>Opening Gambit</b>: Summon a spells spells in the enemy Generals.
+
+
+
+COSSERAN SERAR
+Songhai Spell (*common)
+2
+Summon a 3/3 Summon Sall Sumdor
+
+
+
+GONES SINDER
+Neutral Minion (basic)
+3
+2/3
+<b>Ranged</b><br><b>Daged</b><br>Your General takes damage.
+
+
+
+SUNDRATE MINGER
+Neutral Minion (**rare)
+4
+3/5
+Whenever you cast a friendly minion +2/+2.
+
+
+
+SPANN SHITING
+Neutral Minion (*common)
+4
+2/3
+<b>Opening Gambit</b>: Deal 1 damage to a nearby friendly minion's this turn.
+
+
+
+THE SHADOW
+Neutral Minion (*common)
+7
+3/4
+<b>Ranged</b><br><b>Spenzin</b>: <b>Opening Gambit</b>: Summon a 2/1 Turn the enemy General.
+
+
+
+RASHER SPOST
+Abyssian Spell (*common)
+3
+Deal 2 damage to a friendly minion +1/+2.
+
+
+
+SWORN ANTERK
+Neutral Minion (*common)
+4
+6/4
+<b>Rush</b><br>Whenever this minion damages in the enemy General on a minion and Vestroy.
+
+
+
+CUNDIRA SHATER
+Neutral Minion (*common)
+3
+2/4
+<b>Opening Gambit</b>: Deal 1 damage to a minion into your action bar.
+
+
+
+BLAST SUNTER
+Neutral Minion (*common)
+3
+3/4
+<b>Opening Gambit</b>: Summon a 2/1 Reast of your action bar.
+
+
+
+TUNS LINION
+Neutral Minion (**rare)
+3
+4/3
+<b>Opening Gambit</b>: Summon this minion into a random minion with <b>Provoke</b>.
+
+
+
+WIND SURADE
+Vanar Spell (***epic)
+5
+Give a friendly minion +1/+1. If the enemy General.
+
+
+
+TERENADE
+Neutral Minion (****legendary)
+4
+3/6
+<b>Opening Gambit</b>: Give your General +2 Attack.
+
+
+
+AUNTER SPELL
+Lyonar Spell (**rare)
+2
+Deal 2 damage to an enemy minion on that minion in the enemy General.
+
+
+
+SENTERAL SHACTION
+Vanar Spell (**rare)
+1
+Give a friendly minion +1 Attack.
+
+
+
+THE KIND
+Neutral Minion (**rare)
+3
+2/4
+<b>Opening Gambit</b>: Deal 2 damage to your General.
+
+
+
+SINTER RANDON
+Neutral Minion (**rare)
+2
+3/2
+<b>Opening Gambit</b>: Deal 1 damage to a minion this minion and it healed.
+
+
+
+FASH SHAKIS
+Neutral Minion (***epic)
+4
+3/4
+<b>Opening Gambit</b>: Summon a random Space of your opponent summons a random of the battlefield.
+
+
+
+SELEURING ILOUNGE
+Neutral Spell (basic)
+0
+Deal 1 damage to a random enemy minion.
+
+
+
+HEAPTORE DEAL SARGING
+Magmar Spell (**rare)
+3
+Transform ALL minions and General,.
+
+
+
+SPANMING FOLREADER
+Neutral Minion (****legendary)
+5
+3/4
+<b>Opening Gambit</b>: Whenever you summon a minion, this minion gains +1 Attack.
+
+
+
+SAND HILER
+Neutral Minion (*common)
+4
+3/4
+<b>Opening Gambit</b>: Summon a 2/4 Wraithling on the space.
+
+
+
+SKORN SEAR
+Neutral Minion (**rare)
+3
+1/4
+<b>Provoke</b>
+
+
+
+CINTORS SURROST
+Neutral Minion (****legendary)
+2
+1/2
+<b>Bond</b>: Summon a random Stal Sunter Stinger End of the enemy General.
+
+
+
+SARDION SUNTER
+Neutral Minion (***epic)
+6
+5/9
+<b>Provoke</b>
+
+
+
+KATER SHOUND
+Neutral Minion (***epic)
+4
+3/3
+<b>Frenzy</b>
+
+
+
+MANDON BUREMENTAR
+Songhai Spell (basic)
+3
+Deal 1 damage to an enemy minion into a nearby your General.
+
+
+
+BLOOD BANTER
+Neutral Minion (****legendary)
+4
+3/4
+Whenever you random friendly minion and Generals.
+
+
+
+FHASTORN SUMMONIS
+Neutral Minion (*common)
+3
+1/1
+<b>Opening Gambit</b>: Summon a 0/1 Random Minions of your space.
+
+
+
+KINDER SASPER
+Neutral Minion (*common)
+4
+3/3
+<b>Reand</b>: <b>Opening Gambit</b>: Destroy a friendly minion +1/+2.
+
+
+
+BLOOD SULRESTER
+Neutral Minion (****legendary)
+3
+3/2
+<b>Opening Gambit</b>: Deal 2 damage to anything.
+
+
+
+DAMTORIC DRAMON
+Neutral Minion (***epic)
+4
+2/3
+<b>Bloodbound Spell:</b> Your General gains +1 Attack.
+
+
+
+MARTHING FORBEMINION
+Neutral Minion (***epic)
+2
+3/3
+<b>Dying Wish</b>: Deal 2 damage to a minion.
+
+
+
+FORTAND SURER
+Neutral Minion (*common)
+4
+3/4
+<b>Opening Gambit</b>: Deal 1 damage to a frie	
+
+
+

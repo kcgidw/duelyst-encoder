@@ -1,0 +1,496 @@
+SHASTORN REXLAR
+Neutral Minion (***epic)
+2
+2/1
+Whenever you nearby minion has +1/+2.
+
+---
+
+DLAGES THAS ENTITG
+Vanar Spell (basic)
+3
+Deal 1 damage to enemy General.
+
+---
+
+PUNDING SEURIER
+Neutral Minion (***epic)
+4
+1/7
+<b>Brove</b>
+
+---
+
+TEMUNELA
+Vetruvian Spell (basic)
+2
+Give a nearby minion annemby enemy minion, summon a nearby enemy minion into a card.
+
+---
+
+OCLRARE PRAVOST
+Neutral Minion (***epic)
+6
+2/1
+<b>Opening Gambit</b>: Cransost if the artifack, summon a 4/1 Ferithlong an enemy.
+
+---
+
+KAITHT FARNTER
+Neutral Minion (***epic)
+3
+2/3
+Whenever your General +2 Attack and attack.
+
+---
+
+CANNATHX FROMITIA
+Songhai Minion (*common)
+5
+3/6
+<b>Opening Gambit</b>: Phenever your General deals damage, this minion deald damage to the enemy General.
+
+---
+
+ANMALER ACTACTE
+Vanar Minion (**rare)
+2
+1/4
+Your opponend's stiver ot the tartitactsyrnged this minion with <b>Sutle</b>: Gore all spaces.
+
+---
+
+KONE HEARF
+Songhai Spell (**rare)
+3
+Put the enemy General.
+
+---
+
+AEELSUORS WOUNTITE
+Vetruvian Spell (**rare)
+1
+Clone to cast a nearby friendly minion with 1 Actack.
+
+---
+
+MADHING TRITE
+Vanar Minion (**rare)
+6
+3/2
+<b>Forcefield</b><br>The enemy General.
+
+---
+
+GORLIVE REMISH
+Neutral Minion (basic)
+5
+2/4
+Whenever cestroy an enemy minion into a 1/1 Wellther.
+
+---
+
+BADSHANGER
+Songhai Spell (basic)
+1
+Treict a random Swirch Apces and each your General.
+
+---
+
+SHRODGER
+Lyonar Minion (*common)
+3
+3/1
+<b>Opening Gambit</b>: Deal 1 damage to a friendly minion gain +1 Attack.
+
+---
+
+SUNTERLEP BORIMER
+Songhai Minion (***epic)
+8
+8/5
+<b>Opening Gambit</b>: Tries on the to the nearby friendly minion.
+
+---
+
+WOLFOSUNSER
+Neutral Minion (***epic)
+3
+2/3
+<b>Bloodbound Spell:</b> Summon a minion nearby enemy minion nearby your General.
+
+---
+
+KOTO SUVE
+Magmar Spell (**rare)
+1
+Dath a random friendly minion. It if the battlefield be.
+
+---
+
+ATHALMAR WERELZ
+Neutral Minion (***epic)
+6
+3/3
+<b>Bying Wish</b>: Deal 2 damage to your General.
+
+---
+
+FONPELGER
+Vanar Spell (basic)
+1
+Give a friendly minion. If it takes damage.
+
+---
+
+TOLEICIS
+Neutral Minion (basic)
+4
+2/6
+<b>Blood Drave Wish</b>: Deal 1 damage to your General.
+
+---
+
+WOORBONE SURON
+Songhai Minion (**rare)
+5
+4/4
+<b>Ranged</b><br><b>Opening Gambit</b>: Give a friendly minion +1/+4 and <b>Frenzy</b>.
+
+---
+
+BLASE CEMELG
+Abyssian Spell (basic)
+1
+Deal 1 damage to a random enemy minion.
+
+---
+
+FYAMALLAMER
+Neutral Minion (****legendary)
+2
+3/3
+<b>Flying</b><br>Your General damages a minion damaget of the enemy minion.
+
+---
+
+CINNESH ROWPENTIAN
+Lyonar Minion (*common)
+5
+6/6
+<b>Blood<br>Whingem on your action bar artiendly minion takes damage, hesper for the minion in this deal damage and general.
+
+---
+
+WUNTASTADE MORDER
+Neutral Minion (**rare)
+5
+4/4
+<b>Provoke</b><br><b>Frenzy</b><br><b>Provoke</b><br><b>Provoke</b>
+
+---
+
+BRODIRIT
+Neutral Minion (***epic)
+3
+3/4
+<b>Opening Gambit</b>: Spell summons an enemy minion.
+
+---
+
+CARDROG DAVANE
+Neutral Minion (***epic)
+3
+3/2
+<b>Ranged</b><br>At the end of your spells attichss pranently.
+
+---
+
+ALNASKA
+Vetruvian Minion (***epic)
+3
+2/3
+<b>Opening Gambit</b>: Destroy a friendly minion to in a random it with and Bestroy the end the end of your turn.
+
+---
+
+SINTISES SUPE BLAT
+Neutral Spell (basic)
+0
+Gave two that minion. Summon a srandom Mof Dlame cost action bar.
+
+---
+
+TULNON SHEIN
+Lyonar Minion (**rare)
+7
+3/3
+<b>Opening Gambit</b>: Restore 2 Health to your General.
+
+---
+
+NIGHIR
+Neutral Minion (*common)
+1
+2/1
+<b>Opening Gambit</b>: Summon a Intely</b>.
+
+---
+
+CINCTIRE SECNER
+Neutral Minion (***epic)
+8
+3/3
+<b>Frenzy</b> Whenereld an enemy minion.
+
+---
+
+VADGH
+Neutral Minion (***epic)
+5
+3/2
+<b>Glood</b>: Spell summons a random friendly minion turn, turn cish pracess cerard.
+
+---
+
+CHISSHING OULEER
+Neutral Minion (****legendary)
+7
+6/6
+Whenever your General damages this minion goses coud this minion gain +1 Attack.
+
+---
+
+WIL ENELER
+Magmar Minion (basic)
+3
+5/5
+<b>Bloodbound Spell:</b> Summon a Randlage hive 2 space into <b>Provoke Suring</b>.
+
+---
+
+ZILLADAL
+Vanar Minion (****legendary)
+3
+4/3
+Whenever this minion attacks.
+
+---
+
+SO BIFYT
+Songhai Minion (***epic)
+2
+3/5
+Your General cestore 1 Health to your General.
+
+---
+
+BLAGE FROWDER
+Vetruvian Minion (****legendary)
+4
+4/4
+Whenever your General takes.
+
+---
+
+HARM ENPACLER
+Abyssian Minion (****legendary)
+6
+7/6
+<b>Provoke</b>
+
+---
+
+CELGUNGE
+Songhai Minion (****legendary)
+6
+4/7
+<b>Flying</b><br><b>Dying Wish</b>: Sherls and minion this space. If efract, a on enemy minion gain +2 Attack.
+
+---
+
+SELIMTER
+Abyssian Minion (*common)
+4
+5/3
+<b>Ranged</b><br><b>Flying</b><br>Whenever this minion gains +2 Attack.
+
+---
+
+GASTS HEALTE
+Neutral Spell (basic)
+0
+Restore 1 Health to your General.
+
+---
+
+MIRE BINCORT
+Neutral Minion (***epic)
+6
+4/3
+<b>Dying Wish</b>: Give your General gains +3 Attack.
+
+---
+
+SUMSALORAND FARGIS
+Neutral Spell (basic)
+0
+Deal 2 damage to a random space.
+
+---
+
+BIND
+undefined 1 0(undefined)
+
+2/null
+null
+
+---
+
+DIGOD REXIT
+Neutral Minion (*common)
+4
+3/1
+At the start 2 minion's Attack.
+
+---
+
+CALLONE KONG
+Vetruvian Spell (**rare)
+1
+Deal 2 damage to an enemy.
+
+---
+
+HINBELM LASUNGESGE
+Neutral Minion nalt(*common)
+3
+2/2
+<b>Frenzy</b>
+
+---
+
+SCOPS BFART
+Neutral Minion (basic)
+3
+1/15
+Whenever you for turn minion this minion takes damage, deal 2 damage to a nearby this space.
+
+---
+
+TACE BIDER
+Abyssian Spell (*common)
+1
+Summon a spell the end of your action bar.
+
+---
+
+DAGANS FREEBE
+Neutral Minion (***epic)
+4
+3/4
+<b>Syos Spell:</b> Deal 1 damage to a minion and nearby space.
+
+---
+
+SAND SRUDIFONITA
+Magmar Spell (basic)
+1
+Summon a Damage
+
+---
+
+BRIFNA
+Neutral Minion (**rare)
+3
+1/3
+<b>Opening Gambit</b>: Destroy an enemy.
+
+---
+
+SFRITHHER SPAER MAX
+Neutral Minion (****legendary)
+3
+3/4
+Whenever you random anystore ALY nearby space into <b>Sunming Sevish</b>.
+
+---
+
+CIRTER THING
+Neutral Minion (**rare)
+3
+2/2
+Whenever you random space into <b>Astrace</b>.
+
+---
+
+BOSTION SURNGE
+Neutral Minion (****legendary)
+3
+3/2
+Whenever anything and <b>Sladow Surge</b>: This minion to and restore the to and minion that nearby.
+
+---
+
+YOUNS FROSK
+Magmar Spell (*common)
+0
+Destroy a an enemy minion deals damage.
+
+---
+
+DARCE LUNDER
+Magmar Minion (*common)
+5
+1/5
+<b>Dying Wish</b>: Whenever this minion takes turn minion an enemy minion.
+
+---
+
+CARPHEST SHANIN
+Lyonar Spell (*common)
+3
+Deal 3 damage to your General.
+
+---
+
+SHIGHING
+Neutral Minion (**rare)
+3
+3/3
+Whenever your General takes damage, deal a damage.
+
+---
+
+GROWNKAR
+Neutral Minion (*common)
+2
+4/4
+<b>Dying Wish</b>: Summon three Selal into efemace.
+
+---
+
+DROOTHIR TAES
+Neutral Minion Vast(****legendary)
+3
+4/5
+<b>Opening Gambit</b>: Prithle of your General takes damage it into a nearby zamage from ace minion has 2 General,.
+
+---
+
+FARESOLALANIS
+Abyssian Minion (basic)
+1
+1/3
+<b>Opening Gambit</b>: Deal 2 damage to the enemy General.
+
+---
+
+TLIST
+Lyonar Minion (***epic)
+4
+4/2
+<b>Opening Gambit</b>: Summon a random space into <b>Sspafing Wish</b>: 	
+
+---
+
