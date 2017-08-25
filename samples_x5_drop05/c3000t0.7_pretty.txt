@@ -1,0 +1,403 @@
+GROST SHRIKE
+Magmar Minion (****legendary)
+4
+3/6
+<b>Opening Gambit</b>: Put a 2/2 Iron Survined<br>+2 Attack.
+
+
+
+SINGALE DENAD
+Songhai Minion (**rare)
+6
+2/3
+<b>Opening Gambit</b>: Deal 2 damage to a friendly minion with Deal 2 deals damage to the enemy General.
+
+
+
+UNBANTLER
+Netural Minion Golem (**rare)
+5
+6/3
+
+
+
+
+CRACRASHASTER
+Netural Minion (**rare)
+3
+2/4
+<b>Opening Gambit</b>: Reachive it an enemy non-token minion destroyed this game.
+
+
+
+UREPELER
+Lyonar Minion (*common)
+2
+1/4
+Whenever this minion gains a random cards an enemy.
+
+
+
+SALNCEPER
+Netural Minion (**rare)
+3
+2/3
+<b>Opening Gambit</b>: Deal 1 damage to a random enemy.
+
+
+
+THE BORTE
+Vanar Spell (*common)
+3
+Give a friendly minion +1/+1.
+
+
+
+REISHER DEAL TERD
+Netural Minion (basic)
+4
+4/4
+<b>Opening Gambit</b>: Deal 1 damage to a random enemy minion.
+
+
+
+PRITAL LEADER
+Lyonar Minion (basic)
+3
+3/4
+<b>Opening Gambit</b>: Put a random Migh-Love spaces on the betwerest of your opponent's action bar.
+
+
+
+GROND F
+Lyonar Minion (**rare)
+4
+4/4
+<b>Backstab</b>: (2).
+
+
+
+GRIVE FARDOUD
+Lyonar Spell (**rare)
+2
+Deal 2 damage to a minion.
+
+
+
+PHANANX EBERIMY
+Vanar Spell (*****undefined)
+6
+Destroy a minion with <b>Provoke</b>.
+
+
+
+BLADE SEAL
+Vetruvian Spell (***epic)
+3
+Destroy a random that minion into your action bar.
+
+
+
+ROACH
+Netural Minion (****legendary)
+4
+3/4
+<b>Ranged</b>
+
+
+
+DANK TOD SHINGERT
+Netural Minion (*common)
+4
+3/2
+<b>Flying</b>
+
+
+
+SUN SINBERICERTITY
+Abyssian Minion (***epic)
+7
+2/4
+<b>Opening Gambit</b>: Deal 2 damage to the enemy General for each friendly minion.
+
+
+
+LADASTARMER
+Netural Minion Vespyr (**rare)
+3
+4/3
+<b>Opening Gambit</b>: Deal 1 damage to all enemies around it.
+
+
+
+MANCING OSOR
+Vanar Artifact (***epic)
+2
+Your General gains +2 Attack. At friendly gain +1/+1.
+
+
+
+VARAL ROW
+Netural Minion (****legendary)
+6
+5/3
+Whenever you cast a spell, your General +1 Health.
+
+
+
+MIRLFIMERTERGER
+Netural Minion (**rare)
+6
+7/7
+<b>Dying Wish</b>: Restore 2 Health to your General.
+
+
+
+SOLNIFUPER
+Netural Minion (***epic)
+8
+6/5
+<b>Opening Gambit</b>: Summon a 4/3 Iron Crenpes Stound Spell.
+
+
+
+WIND GROM
+Abyssian Spell (**rare)
+3
+Summon a Wraithling on that space.
+
+
+
+ERANTATA PREASHEN
+Vetruvian Minion (**rare)
+4
+3/7
+<b>Opening Gambit</b>: Put a random minion with 2 or less Attack.
+
+
+
+SUNX KAINE
+Abyssian Minion (***epic)
+3
+3/3
+<b>Opening Gambit</b>: Put a copy of the minion enemy spaces.
+
+
+
+FURATIGE WELRIRIER
+Netural Minion (*common)
+4
+5/4
+Whenever you summon a minion into an Egg of it into your action bar.
+
+
+
+RAKON STEAL
+Vetruvian Spell (****legendary)
+2
+Deal 2 damage to a minion.
+
+
+
+RUGYS SINTORTLEAR
+Netural Minion (****legendary)
+7
+7/8
+<b>Flying</b><br><b>Ranged</b><br>Whenever this minion deals damage, turn -Lofdyntorm action bar.
+
+
+
+TALE MONITION
+Vetruvian Spell (*common)
+1
+
+
+
+
+BEAC SHADOW TELEPORT
+Netural Minion (****legendary)
+4
+4/3
+Whenever this minion gains +2 Attack. If it dies this turn, summon a copy of your General.
+
+
+
+DURITINE SAND
+Vanar Minion (***epic)
+5
+8/7
+<b>Provoke</b><br><b>Opening Gambit</b>: Destroy a random enemy minion, have all enemy minions.
+
+
+
+SCARNIF HOWRE
+Vetruvian Spell (***epic)
+6
+Deal 2 damage to a minion. Ir allofe from your General.
+
+
+
+ILVAINON DRAKE
+Magmar Minion (****legendary)
+6
+5/2
+<b>Opening Gambit</b>: Put a copy of the cast the space to turn that costs 1 less.
+
+
+
+EPYR
+Netural Minion Structure (*common)
+4
+3/4
+<b>Dying Wish</b>: Summon a Vespyr minion into a 2/1 Iron Surgorn
+
+
+
+ONIRANK REACER
+Vetruvian Minion (**rare)
+3
+3/4
+Whenever this minion takes damage, deal 2 damage to eicherviendly minions.
+
+
+
+REANSHAMER
+Netural Minion (*common)
+5
+4/4
+<b>Opening Gambit</b>: Summon a 1/2 Wreith Golem your opponent's action bar.
+
+
+
+SEACHTONER
+Netural Minion (*common)
+5
+3/4
+<b>Opening Gambit</b>: Deal 1 damage to a random enemy minion.
+
+
+
+FLAMESTORAL ENTITY
+Netural Spell (basic)
+0
+Summon a 2/1 Iron Dervish on a copy of all enemy minions.
+
+
+
+SWORN SHAMANT
+Magmar Minion (***epic)
+4
+4/4
+Whenever this minion takes damage, summon a Wind Pellk.
+
+
+
+TRESTORM PICT
+Netural Minion (***epic)
+1
+2/2
+<b>Ranged</b><br>Your Attacks or an enemy.
+
+
+
+SAND OF THE SELKINTING
+Netural Minion (****legendary)
+7
+4/3
+<b>Opening Gambit</b>: Draw a card.
+
+
+
+PRATCHEN EON
+Netural Minion (basic)
+3
+2/2
+<b>Blood Surge</b>: Put a random Ext 3 2 their turn, deal 3 damage to anything.
+
+
+
+WIND FURKER
+Netural Minion (****legendary)
+5
+3/5
+<b>Blood Surge</b>: Deal 3 damage to anything.
+
+
+
+READOUND SHADOW
+Songhai Spell (basic)
+4
+Teleport a friendly minion and minion gains +4/+2.
+
+
+
+PEMANDOR
+Netural Minion (***epic)
+4
+3/5
+<b>Opening Gambit</b>: Turn a nearby enemy minion into a of the battlefield.
+
+
+
+SPIRAC OF THE DEAD MAGA
+Lyonar Minion (*common)
+3
+2/3
+<b>Opening Gambit</b>: Summon a Wind Spell from friendly <b>Dying Wish</b>.
+
+
+
+CHUSASASEN KAINN
+Vanar Minion (**rare)
+4
+3/4
+Whenever this minion takes damage, summon a minion nearby your General.
+
+
+
+FICHTTO TEPERASTROMANER
+Netural Minion (****legendary)
+8
+6/4
+<b>Opening Gambit</b>: Summon a 2/1 Iron Pescings Attack. Draw a card, deal 1 damage to equal this turn.
+
+
+
+SPILETRAUR
+Abyssian Artifact (**rare)
+3
+Whenever a friendly minion +1/+1 and <b>Provoke</b>.
+
+
+
+CIRCNE WESTROP
+Songhai Spell (*common)
+3
+Destroy a friendly minion on a random space nearby their General.
+
+
+
+SILCERSTROD EX
+Vetruvian Minion Arcanyst (***epic)
+4
+3/2
+<b>Opening Gambit</b>: Deal 4 damage to an enemy minion.
+
+
+
+SCARON BORSTER
+Vanar Minion Arcanyst (*common)
+3
+3/2
+<b>Flying</b><br><b>Opening Gambit</b>: Teleport a friendly minion gain +3/+1.
+
+
+
+RIGUT SULMENTAL
+Vanar Minion (*common)
+4
+3/4
+<b>Opening Gambit</b>: Deal 1 damage to an enemy minion.
+
+
+

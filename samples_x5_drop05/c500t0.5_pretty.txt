@@ -1,0 +1,373 @@
+SCASCER GUROLE
+Netural Minion (basic)
+2
+2/4
+Whenever your General damage to a minion to the enemy General.
+
+
+
+WRAITHLON SULDER
+Abyssian Spell (basic)
+2
+Deal 2 damage to an enemy minions gains +1/+1.
+
+
+
+RITE CALE
+Netural Minion (**rare)
+1
+3/2
+<b>Bond</b>: Summon a random Friendly minions and deal 1 damage to the and General.
+
+
+
+BACTER SUMMONIS
+Netural Spell (basic)
+2
+Deal 2 damage to a minion and it that space this turn.
+
+
+
+RABE DESPER
+Netural Minion (****legendary)
+3
+4/3
+<b>Opening Gambit</b>: Summon a 0/1 Craish Frove into a Summon Ept Batle Pet into your action bar.
+
+
+
+CLALOSTER
+Netural Minion (***epic)
+3
+2/4
+<b>Opening Gambit</b>: Shage in the enemy General damage to all spell an enemy minions in a card.
+
+
+
+ONETERIR SELD
+Netural Minion Arcanyst (***epic)
+4
+3/3
+<b>Opening Gambit</b>: Deal 1 damage to an enemy minion.
+
+
+
+SISTRIMER SANGER
+Netural Minion (***epic)
+7
+3/15
+<b>Flying</b>, <b>Opening Gambit</b>: Summon a minions damages the enemy General.
+
+
+
+SIND SPELN
+Songhai Spell (*common)
+1
+Your General damage to it that minion on the enemy General.
+
+
+
+SHADOW SAND
+Netural Minion (basic)
+4
+2/3
+<b>Opening Gambit</b>: Loun a friendly minions +1 Attack.
+
+
+
+SUND SELGER
+Netural Minion (**rare)
+6
+4/5
+<b>Opening Gambit</b>: Summon a random Welles damage to a friendly minion +3 Attack.
+
+
+
+FERON RECESHEN
+Netural Minion (*common)
+4
+2/2
+<b>Ranged</b><br>Whenever you random General.
+
+
+
+STORS HORN SLALE
+Netural Minion (basic)
+4
+4/1
+<b>Opening Gambit</b>: Deal 3 damage to any and General.
+
+
+
+SPARLES SONTOM FERTIRIT
+Abyssian Spell (*common)
+2
+Deal 5 damage to a friendly minion +2 Attack.
+
+
+
+WARD CURNIFION
+Netural Spell (basic)
+0
+Summon a friendly minion damage this minions gains +2 Attack.
+
+
+
+SPELL ERTEMAL
+Netural Minion (****legendary)
+5
+7/6
+<b>Flying</b><br>Whenever this minion damages a friendly minion +2/+2.
+
+
+
+TAR SERTACTION
+Magmar Spell (*common)
+3
+Give a random minion and action bar, this minion gains +2 Attack.
+
+
+
+DEATH BAPTER
+Netural Minion (*common)
+3
+3/1
+<b>Opening Gambit</b>: Summon a Your your General +1 Attack.
+
+
+
+SURS AGANER
+Songhai Minion (basic)
+6
+4/3
+<b>Opening Gambit</b>: Destroy any minion +2 Attack.
+
+
+
+STAL TURNITION
+Songhai Spell (*common)
+1
+Deal 1 damage to an enemy minion each turn.
+
+
+
+SUNTORROR SWORCH
+Netural Minion (*common)
+5
+4/3
+<b>Bloodbound Spell</b> Summon a 1/2 Summon a friendly minion +1/+1.
+
+
+
+FHACHERTER
+Netural Minion (basic)
+2
+3/3
+<b>Opening Gambit</b>: Summon a Health to a friendly minion.
+
+
+
+SFER SUCTERGE
+Netural Minion (**rare)
+5
+4/4
+<b>Opening Gambit</b>: Promrove and Wervish this damage to anything in the enemy General damage to a random all enemy minion.
+
+
+
+CLALONE INER
+Netural Minion (*common)
+6
+2/1
+Whenever this minion and enemy minion with <b>Frendy</b>.
+
+
+
+SERATE SLOSTORE
+Abyssian Minion (*common)
+2
+4/5
+<b>Opening Gambit</b>: Deal 2 damage to anything into your action bar.
+
+
+
+SHADOT ELEAR
+Netural Minion (***epic)
+8
+4/4
+<b>Opening Gambit</b>: Whenever your General +2 Attack.
+
+
+
+RATE SUP
+Netural Minion (basic)
+1
+3/3
+<b>Summon Dervish</b><br><b>Provoke</b><br><b>Summon General</b>: <b>Opening Gambit</b>: Summon a 2/2 In Summon of your turn on a friendly minion +1/+1.
+
+
+
+FLEPER
+Netural Minion (**rare)
+3
+4/3
+<b>Freny</b>
+
+
+
+SUNSTEROR
+Netural Minion (basic)
+4
+3/2
+<b>Opening Gambit</b>: Summon a Wind ALL minion into your action bar.
+
+
+
+SUND SUMMON
+Netural Spell (basic)
+0
+Summon a coich of the space into the enemy General.
+
+
+
+WORCAND CERAR
+Netural Minion (*common)
+4
+1/1
+<b>Summon Grow</b>: Summon a 1/1 Health to any friendly minion damage that minion geal this minion this the end of the enemy General.
+
+
+
+SUNTORRIDE SURGE
+Songhai Spell (*common)
+2
+Deal 2 damage to a friendly minion +1/+1.
+
+
+
+GACE SHATOR SACTING
+Netural Minion (**rare)
+4
+3/4
+<b>Opening Gambit</b>: Put a cards into your action bar into your General.
+
+
+
+SHADOW DEAL
+Netural Minion (**rare)
+4
+2/3
+<b>Opening Gambit</b>: Put a card in a friendly minions gain +1 Attack.
+
+
+
+LARTERAR SURTING
+Netural Spell (*common)
+1
+Gove a friendly minions +1/+1.
+
+
+
+SORTON SHADING
+Netural Minion (*common)
+3
+3/3
+<b>Blood Surge</b>: Summon a cory of the minion gains +1/+1.
+
+
+
+SAND FALL
+Magmar Spell (**rare)
+1
+Give a friendly minion +2 Attack.
+
+
+
+CRYNING CRANTER
+Netural Minion (*common)
+4
+2/1
+<b>Frenzy</b>
+
+
+
+TARA RANING
+Netural Minion (***epic)
+4
+5/3
+<b>Reathling</b><br>Whenever your General damage to a minions space.
+
+
+
+SHEMOWGER
+Netural Minion (**rare)
+3
+3/3
+<b>Opening Gambit</b>: Deal 1 damage to a random minions into your action bar.
+
+
+
+FECPORN SHEMASTER
+Netural Minion (***epic)
+3
+2/3
+Whenever your General's damage to a random minion that cannot the minions around its Attack.
+
+
+
+WARCHEN CLARE
+Netural Minion (***epic)
+5
+3/4
+<b>Frenzy</b><br><b>Frenzy</b><br><b>Dying Wish</b>: Give a friendly minion +2 Attack.
+
+
+
+SUNGESTER
+Netural Minion (**rare)
+4
+3/6
+Whenever you cast a friendly minion +1 Attack.
+
+
+
+SHADOW SEX
+Netural Minion (*common)
+2
+3/3
+<b>Opening Gambit</b>: Put a AtY minion into your action bar this minion takes damage to anything.
+
+
+
+SAND BORTELSAE
+Lyonar Minion (****legendary)
+6
+3/4
+<b>Dying Wish</b>: Deal 2 damage to a minions with Tranged a minion into your action bar.
+
+
+
+STORN SURDE
+Netural Minion (*common)
+2
+2/3
+<b>Flying</b>
+
+
+
+SON PARTING
+Netural Minion (*common)
+3
+4/3
+<b>Provoke</b><br><b>Ranged</b><br><b>Ranged</b><br><b>Ranged</b><br><b>Frenzy</b><br><b>Provoke</b><br><b>Spannet Gamit</b>: Summon a 2/1 Irun Summon a 3/1 Proinder Summon a Wraithling with <b>Shadow Welly</b>.
+
+
+
+HROMBARE SELTER
+Vetruvian Minion (**rare)
+6
+4/5
+<b>	
+
+
+

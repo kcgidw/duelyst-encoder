@@ -1,0 +1,436 @@
+PHANDACELER
+Vetruvian Minion (***epic)
+6
+3/6
+<b>Opening Gambit</b>: Give a friendly minion +5 Attack.
+
+
+
+DEZACIPER
+Netural Minion Arcanyst (**rare)
+4
+2/4
+<b>Forcefield</b>
+
+
+
+GHASTER FACSIINION
+Songhai Spell (basic)
+1
+Deal 3 damage to all enemy minions.
+
+
+
+PLISPIRE BLINDERGERS
+Abyssian Artifact (basic)
+3
+Your General gains +2 Attack.
+
+
+
+REIDASEC STRIKE
+Vanar Spell (**rare)
+4
+Deal 4 damage to all enemy minions.
+
+
+
+SUNSTONE WALCS
+Lyonar Minion (***epic)
+1
+1/3
+<b>Provoke</b><br>Whenever this minion deals damage, turn a nearby space.
+
+
+
+LE WIST CRASURE
+Lyonar Spell (***epic)
+1
+Give a friendly minion +1/+2.
+
+
+
+SKIND CROVER
+Netural Minion (*common)
+1
+2/3
+<b>Opening Gambit</b>: Restore 1 Health to your General.
+
+
+
+NATOR TRAKE
+Vetruvian Minion (*common)
+4
+8/1
+<b>Blood Surge</b>: Give a friendly <b>Ranged</b>.
+
+
+
+ACTICAL ACTIINAT
+Magmar Minion (****legendary)
+6
+3/4
+<b>Opening Gambit</b>: Spell all cards from your deck.
+
+
+
+FERAN OCER
+Netural Minion (*common)
+3
+1/2
+<b>Flying</b>
+
+
+
+SANDSEULLY
+Vetruvian Minion (****legendary)
+3
+1/2
+<b>Opening Gambit</b>: Give a nearby friendly minion +1 Attack.
+
+
+
+COLD TUIDRESTORM
+Vanar Spell (*common)
+2
+Equip a random artifact on card, this minion has +1/+1.
+
+
+
+RAGULING SIRITER
+Magmar Minion (*common)
+4
+3/7
+<b>Grow</b>: +1/+3.
+
+
+
+ECARTAH GOLEM
+Netural Minion Battle Pet (*common)
+2
+1/1
+<b>Dying Wish</b>: Deal 1 damage to an enemy.
+
+
+
+PWILRITH BLOAD DREALS
+Vetruvian Spell (***epic)
+3
+Deal 2 damage to a minion.
+
+
+
+BUREACE WOLTHER
+Songhai Minion (***epic)
+4
+4/3
+<b>Provoke</b>
+
+
+
+DANK DRAGUS
+Netural Minion (***epic)
+2
+2/1
+<b>Dying Wish</b>: Summon a random Abicter and of put all nearby any General.
+
+
+
+ASTRAL SWIRT
+Vetruvian Spell (***epic)
+4
+Destroy a friendly minion +2/+2.
+
+
+
+LETUMONG FOLUPIRATION
+Vetruvian Spell (*common)
+3
+Turn an enemy minion or General.
+
+
+
+ASTRAL KADE
+Lyonar Minion (**rare)
+5
+3/6
+<b>Opening Gambit</b>: Transform a random minion. Summon a random Battle Pet into your action bar.
+
+
+
+FEARTACKES
+Magmar Minion (*common)
+3
+1/2
+Whenever this minion famst and the Goled nearby their General.
+
+
+
+WOLNETH SURDER
+Netural Minion (****legendary)
+6
+4/4
+<b>Zeal</b>: Gains +1 Attack.
+
+
+
+PHORAN BINDOR
+Vetruvian Spell (basic)
+1
+Turn a friendly Vespyr minion into a random of your turn.
+
+
+
+EXOR YOUNER
+Abyssian Minion (***epic)
+3
+1/4
+<b>Flying</b><br/><b>Blood Surge</b>: Destroy a friendly minion with <b>Dying Wish</b> and <b>Rush</b> nearby their General.
+
+
+
+LIMEDONG SHADOW CREEP
+Songhai Spell (basic)
+1
+At the end of your turn.
+
+
+
+SKARNER' THAPER
+Songhai Minion (****legendary)
+5
+3/5
+<b>Opening Gambit</b>: Gain +1/+1.
+
+
+
+FORPOKE EGE
+Magmar Spell (***epic)
+4
+Give a friendly minion +1/+2.
+
+
+
+DAGNEPANER
+Songhai Minion (*common)
+4
+3/6
+Costs 1 less to that maner colves +1 Health.
+
+
+
+BALON ARSIFHER
+Netural Minion (***epic)
+4
+4/4
+<b>Dying Wish</b>: Draw a card.
+
+
+
+REJUTINER BALRAEA
+Magmar Minion (*common)
+1
+1/4
+<b>Grow</b>: +1/+2.
+
+
+
+DEXYRSAH
+Lyonar Spell (*common)
+2
+Deal 3 damage to anything.
+
+
+
+THORN SEOL
+Netural Minion (*common)
+4
+4/4
+Whenever you summon a demysh and General.
+
+
+
+TRIVY WORTHILEM
+Vetruvian Spell (*common)
+2
+Give a friendly minion +2/+1.
+
+
+
+AMULIKERS
+Netural Minion (*common)
+4
+4/3
+<b>Opening Gambit</b>: Lower the cost of all minions and Generals gains +1 Attack.
+
+
+
+KILX LINGER
+Lyonar Minion (***epic)
+1
+3/2
+<b>Ranged</b><br><b>Opening Gambit</b>: Summon a random Estromystar.
+
+
+
+CHAX OLASET
+Songhai Minion (basic)
+2
+1/2
+<b>Provoke</b>, <b>Provoke</b><br>Deals double damage to Generals.
+
+
+
+ARHASHER ESHERA
+Abyssian Minion (***epic)
+0
+3/3
+<b>Opening Gambit</b>: Summon a random Magmar minion with Ponget
+
+
+
+PREACHER
+Netural Minion (*common)
+8
+5/5
+<b>Provoke</b>
+
+
+
+LYNSESL JAKE
+Songhai Minion (basic)
+1
+1/2
+<b>Blood Surge</b>: Summon a 3/4 Itherdo Swimcher
+
+
+
+SALUSE STRIKE
+Songhai Minion (**rare)
+4
+5/4
+Whenever this minion takes damage, this minion attacks, this minion gains +2 Attack.
+
+
+
+DANGE TALIR
+Magmar Minion (**rare)
+1
+1/1
+<b>Opening Gambit</b>: Put a 2/2 Iron Ciln into your action bar.
+
+
+
+SET RAMON
+Netural Minion (*common)
+4
+2/6
+Whenever this minion deals damage, draw a card.
+
+
+
+BLINDSTORM SEAL
+Magmar Spell (**rare)
+3
+Give a friendly minion +1/+1.
+
+
+
+FATHE OLHET
+Netural Spell (basic)
+0
+Give a friendly minion +1/+3.
+
+
+
+KROINSBERS
+Netural Minion (***epic)
+4
+1/1
+You cost 1 less to each enemy minion around them.
+
+
+
+SPIRAL REZAR
+Vanar Spell (*common)
+2
+Destroy a friendly minion, summon a 1/2 Spiric of your opponent's action bar.
+
+
+
+RICHER
+Magmar Minion (****legendary)
+7
+3/5
+<b>Opening Gambit</b>: Deal 1 damage to an enemy minion.
+
+
+
+BRAGE DAMKE
+Abyssian Spell (****legendary)
+7
+Switch to your General.
+
+
+
+WHASTORD WHESTRAT
+Netural Minion (**rare)
+3
+2/3
+<b>Opening Gambit</b>: Deal 2 damage to an enemy minion on that space.
+
+
+
+SHADOWDEND SACK
+Lyonar Minion (***epic)
+2
+1/3
+<b>Dying Wish</b>: Restore 1 Health to your General.
+
+
+
+TURNEM GUSTER HARA
+Netural Minion (***epic)
+1
+2/3
+<b>Provoke</b>
+
+
+
+BOREPHABER
+Netural Minion (*common)
+4
+3/3
+<b>Dying Wish</b>: Draw a card.
+
+
+
+WROATH EDERBIK
+Netural Minion (****legendary)
+2
+1/2
+<b>Forcefield</b><br>Whenever your opponent summons a minion, deal 2 damage to your General.
+
+
+
+WOSMOND SURGE
+Vetruvian Spell (****legendary)
+6
+Deal 4 damage to an enemy minion.
+
+
+
+GORE LINGE
+Vanar Spell (****legendary)
+3
+Whenever you lest a minion with 2 or less Attack.<br/>Your General gains +2 Attack. General gains +2 Attack.
+
+
+
+PANDLOVE SONGHAIN
+Vanar Spell (basic)
+4
+Destroy ALL minions with 	
+
+
+

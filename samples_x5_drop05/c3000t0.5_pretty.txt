@@ -1,0 +1,387 @@
+CHORES OF AWTACKER
+Netural Minion (*common)
+3
+1/4
+<b>Opening Gambit</b>: Summon a 4/3 Dragon of this minion on the space into your action bar.
+
+
+
+RIGHTSIN SURGE
+Vanar Spell (*common)
+4
+Destroy an enemy minion around them.
+
+
+
+REGIN SOLSER
+Netural Minion (****legendary)
+5
+3/5
+<b>Opening Gambit</b>: Give a friendly minion +1/+1.
+
+
+
+FLIKE
+Songhai Spell (*common)
+2
+Destroy a friendly minion has +3 Attack.
+
+
+
+CHONE BINDSERN
+Songhai Minion (***epic)
+4
+4/3
+Whenever you cast a spell, this minion gains +1/+1.
+
+
+
+MINDICIEN
+Netural Minion (*common)
+3
+3/3
+<b>Opening Gambit</b>: Put a random Battle Pet into your action bar.
+
+
+
+SELET SHADOW CREEP
+Netural Spell (basic)
+0
+Destroy a friendly minion gains +3 Attack.
+
+
+
+ANCE MING OF ETHERN SPAX WALLING
+Songhai Spell (**rare)
+1
+Transform a minion with 3 or less Attack.
+
+
+
+STARCHER
+Netural Minion (**rare)
+3
+2/4
+<b>Opening Gambit</b>: Turn a nearby minion to a friendly minion. Draw a card.
+
+
+
+SYOR MONIS
+Abyssian Spell (*common)
+2
+Transform an enemy minion with 3 or less Attack.
+
+
+
+DRAGE ENTERTE
+Netural Spell (basic)
+0
+Clone self into a nearby space.
+
+
+
+BLOOD SUNTER
+Netural Minion (***epic)
+4
+5/3
+<b>Opening Gambit</b>: Deal 3 damage to anything.
+
+
+
+MANCENS OF WIST
+Netural Minion (***epic)
+5
+3/2
+<b>Ranged</b><br><b>Opening Gambit</b>: Give a friendly minion +1/+1.
+
+
+
+SHADOW STRAK
+Lyonar Artifact (**rare)
+1
+Your General gains +1 Attack. Draw a card.
+
+
+
+PANDLOUS
+Netural Minion (*common)
+4
+2/3
+<b>Opening Gambit</b>: Deal 2 damage to a random space on the minion.
+
+
+
+SUN NEAR
+Vetruvian Minion Golem (***epic)
+4
+3/4
+<b>Opening Gambit</b>: Put a copy of the cost 2 less into 3/2 Iron on the space into <b>Flying</b>.
+
+
+
+PRIMAL SHEALER
+Vetruvian Minion (*common)
+3
+3/3
+<b>Opening Gambit</b>: Transform an enemy minion on a copy of an enemy minion into a 2/1 Ilusion Wint a random artifact on the enemy General.
+
+
+
+FARTASTER
+Netural Minion (***epic)
+4
+3/4
+<b>Ranged</b><br><b>Opening Gambit</b>: Give a friendly minion +1/+1.
+
+
+
+CARCUSIS BLADES
+Netural Minion (basic)
+3
+1/2
+<b>Provoke</b><br><b>Opening Gambit</b>: Summon a 2/1 Illusion on a random nearby space.
+
+
+
+SHADOW TELTER
+Netural Minion (*common)
+4
+4/4
+<b>Opening Gambit</b>: Deal 2 damage to a minion. If you have an enemy minion with 3 or less Attack.
+
+
+
+SHADOW CREEP
+Netural Spell (basic)
+0
+Deal 2 damage to an enemy minion.
+
+
+
+SHADOW ESTRATY
+Abyssian Spell (**rare)
+3
+Deal 2 damage to an enemy minion or General.
+
+
+
+COLMALSATER
+Netural Minion (basic)
+4
+5/5
+<b>Opening Gambit</b>: Give a friendly minion +3 Attack this turn.
+
+
+
+LASTING SPERM
+Lyonar Spell (**rare)
+2
+Choose an enemy minion with 2 or less Attack.
+
+
+
+SGINSTORT SPERLATER
+Vetruvian Minion (**rare)
+4
+3/5
+<b>Opening Gambit</b>: Deal 1 damage to an enemy.
+
+
+
+AMALICTERS SALD
+Vanar Minion Arcanyst (*common)
+5
+3/4
+<b>Opening Gambit</b>: Turn a nearby minion to a random space.
+
+
+
+SHADOW ENEMY
+Netural Spell (basic)
+0
+Move target to a minion.
+
+
+
+GRANDMASTER RAIGHT
+Abyssian Minion (*common)
+3
+1/4
+<b>Opening Gambit</b>: Put a random Kage non-token minion destroyed this turn.
+
+
+
+TERMAND OF PURGE
+Netural Spell (basic)
+0
+Clone an enemy minion.
+
+
+
+DOURGE SEAL
+Lyonar Spell (***epic)
+1
+Restore 2 Health to all enemy minions.
+
+
+
+KINDING SEAL
+Vetruvian Spell (**rare)
+4
+Destroy a friendly minion with <b>Shadow Creep</b>.
+
+
+
+BLOOD SANT
+Abyssian Minion (****legendary)
+4
+2/4
+Whenever you summon a minion on your opponent's starting side of the cost of all General.
+
+
+
+ALCE TO SONGUAR
+Netural Minion (basic)
+2
+2/1
+<b>Blood Surge</b>: Restore 1 Health to your General.
+
+
+
+SUN MANAN
+Lyonar Minion (***epic)
+2
+1/2
+<b>Opening Gambit</b>: Destroy an enemy minion into a Wind Summon and General.
+
+
+
+SPYRITERAS STARGER
+Netural Minion (**rare)
+4
+3/5
+Whenever this minion deals damage, this minion takes damage, summon a 2/1 Illoners nos friendly minions that cansto Will be of the enemy General.
+
+
+
+ENTERCERS WALL
+Netural Minion (*common)
+3
+1/3
+<b>Opening Gambit</b>: Summon a 1/1 Wraithling with <b>Flying</b> from your action bar.
+
+
+
+MEFUNDET SHADOW CREEP
+Vanar Spell (*common)
+2
+Deal 2 damage to an enemy minion.
+
+
+
+BORESHING DEAL WISH
+Lyonar Spell (***epic)
+4
+Summon a non-Shadow minion, summon a random poce of the cost 2 less.
+
+
+
+FORCANAST
+Magmar Minion (****legendary)
+5
+5/5
+<b>Opening Gambit</b>: Summon a 3/1 Frenyst Golem and nearby enemy minion.
+
+
+
+SUN SONDIMERART
+Songhai Minion (***epic)
+4
+3/3
+<b>Flying</b>
+
+
+
+BLINDSATING STRAK
+Lyonar Minion (basic)
+2
+2/3
+<b>Blood Surge</b>: Draw a card.
+
+
+
+WIND OF SURGE
+Netural Minion (***epic)
+7
+3/2
+<b>Opening Gambit</b>: Give a friendly minion +1/+2.
+
+
+
+SURGE SORLICKER
+Netural Minion (**rare)
+3
+3/1
+<b>Dying Wish</b>: Summon a 1/1 Wraithling with <b>Summon Dervish</b> from your turn, restore 1 Health to your General.
+
+
+
+CLONE SELF
+Netural Spell (basic)
+0
+Clone self into a nearby space.
+
+
+
+SURNISH SPERLEAL
+Magmar Spell (*common)
+2
+Deal 1 damage to a minion.
+
+
+
+ANCE LOWING
+Abyssian Minion (***epic)
+2
+1/1
+<b>Opening Gambit</b>: Give a friendly minion +1/+1.
+
+
+
+HAMASTORN SEAL
+Vanar Spell (*common)
+2
+Give a friendly minion +1/+1.
+
+
+
+ARTICHAR
+Vetruvian Spell (basic)
+2
+Destroy a friendly minion with <b>Dying Wish</b> from your turn, deal 1 damage to a random enemy.
+
+
+
+MAGUCES SCORSI
+Vanar Spell (*common)
+3
+Deal 1 damage to a minion. If you have an enemy.
+
+
+
+ENKER EXTH
+Abyssian Minion (*common)
+3
+3/4
+<b>Opening Gambit</b>: Destroy an enemy minion on a random space.
+
+
+
+SUNBERESTER
+Netural Minion (****legendary)
+7
+7/6
+<b>Opening Gambit</b>: Summon a 4/3 	
+
+
+

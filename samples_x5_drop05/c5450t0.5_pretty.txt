@@ -1,0 +1,362 @@
+SUN WIND
+Lyonar Spell (***epic)
+1
+Give a friendly minion +1/+2.
+
+
+
+HEAL STARDEM
+Magmar Spell (*common)
+2
+Deal 2 damage to an enemy minion.
+
+
+
+BLAST SURGE
+Abyssian Artifact (****legendary)
+5
+Deal 3 damage to anything into your action bar.
+
+
+
+SHADOW BLOODDER
+Lyonar Minion (*common)
+3
+1/5
+<b>Opening Gambit</b>: Deal 1 damage to a minion. Ef it that deal damage deal +3 damage.
+
+
+
+CRANTICTING SAND
+Abyssian Minion (*common)
+4
+3/2
+<b>Rush</b><br><b>Flying</b><br><b>Opening Gambit</b>: Summon a 2/1 Iron Dervish on a random space nearby your General.
+
+
+
+CEPULPER FURIENTER
+Vanar Minion (*common)
+5
+2/4
+<b>Provoke</b><br><b>Opening Gambit</b>: Deal 2 damage to a random enemy.
+
+
+
+ARCCERAL
+Netural Minion (****legendary)
+7
+4/2
+<b>Opening Gambit</b>: Summon a nearby minion.
+
+
+
+SALL SHADOW CREEP
+Netural Spell (basic)
+0
+Summon a Wind Dervish.
+
+
+
+SHOT HARD
+Netural Spell (basic)
+0
+Summon a Wraithling.
+
+
+
+SEAR OF IT ON GOLEM
+Netural Spell (basic)
+0
+Clone self into a nearby space.
+
+
+
+RECERITY SHADOW CREEP
+Songhai Spell (*common)
+1
+Deal 4 damage to a minion. Draw a card.
+
+
+
+CILD DEMAGER
+Abyssian Spell (*common)
+1
+Give a friendly minion +1/+1.
+
+
+
+TURNE SHAMON
+Lyonar Spell (*common)
+1
+Deal 2 damage to an enemy minion.
+
+
+
+CLONE SELF
+Netural Spell (basic)
+0
+Give a friendly minion +1/+1.
+
+
+
+SPARUS STARFIFE
+Netural Spell (basic)
+1
+Deal 2 damage to an enemy minion.
+
+
+
+STORM SPAWN
+Abyssian Spell (***epic)
+4
+Destroy a friendly minion attacks, it to its action bar.
+
+
+
+SHADOW WARTHEN
+Netural Minion (**rare)
+3
+3/1
+<b>Opening Gambit</b>: Deal 5 damage to an enemy.
+
+
+
+ARP SHADOW CREEP
+Netural Spell (basic)
+0
+Summon a 4/2 Iron Dervish on a random space nearby your General.
+
+
+
+KILL CRASTER
+Netural Minion (*common)
+3
+2/4
+<b>Opening Gambit</b>: Summon a random Battle Pet into your action bar.
+
+
+
+FRATTURE STORM
+Abyssian Spell (****legendary)
+7
+Deal 1 damage to an enemy minion.
+
+
+
+GROVE SEAL
+Vetruvian Spell (**rare)
+1
+Deal 1 damage to an enemy minion.
+
+
+
+CLONE SELF
+Netural Spell (basic)
+0
+Summon a Wind Spell costs 1 less and takes no damage this turn.
+
+
+
+DEACHSTER SARUI
+Netural Minion (*common)
+1
+2/3
+Whenever you cast a spell, deal 2 damage to all enemies around it.
+
+
+
+ARCINE SERAL
+Abyssian Minion (**rare)
+2
+1/1
+<b>Blood Surge</b>: Summon a 1/1 Wraithling with <b>Ranged</b>.
+
+
+
+SRAW TORDEUD
+Netural Minion (****legendary)
+4
+4/3
+<b>Opening Gambit</b>: Destroy an enemy minion into a random Vespyr minion.
+
+
+
+SUSH SPELR
+Netural Minion (**rare)
+3
+1/3
+Whenever your opponent summons a minion, deal 1 damage to the enemy General.
+
+
+
+SHADOW CREEPS
+Songhai Spell (*common)
+2
+Destroy a friendly minion with Provoke nearby your General gains +1 Attack.
+
+
+
+ACPION OF THE LIGESTAR
+Netural Minion (***epic)
+3
+1/3
+Whenever this minion attacks, put a Wind Summon Dervish.
+
+
+
+THE SAND
+Netural Minion (****legendary)
+3
+2/4
+<b>Opening Gambit</b>: Put a random Battle Pet into your action bar.
+
+
+
+SOROURA
+Magmar Minion (**rare)
+4
+3/4
+<b>Opening Gambit</b>: Summon a 2/2 Wind Dervish with <b>Opening Gambit</b>: Summon a 1/2 Wraithling, draw a card.
+
+
+
+BLOOD SUNTER
+Netural Minion (****legendary)
+4
+3/5
+<b>Opening Gambit</b>: Give a nearby friendly minion +1/+1.
+
+
+
+THO LOTH
+Abyssian Spell (*common)
+2
+Give a friendly minion +1/+2.
+
+
+
+ALCE RANCER
+Netural Minion (*common)
+5
+3/4
+<b>Blood Surge</b>: Summon a 2/1 Illoners now a minion. If it dies this turn, the space in an entity.
+
+
+
+WELY TELEM
+Netural Minion (**rare)
+4
+3/3
+<b>Opening Gambit</b>: Give a nearby friendly minion +2/+3 for each turn that space into <b>Shadow Creep</b>.
+
+
+
+ABALISTER SARITING
+Abyssian Spell (***epic)
+3
+Destroy an enemy minion and General.
+
+
+
+MIMLASTER
+Netural Minion (****legendary)
+6
+4/6
+Whenever you cast a spell, this minion gains +2 Attack. Summon a random Migin or all enemy minions.
+
+
+
+KARAIN SUNGERITI
+Netural Minion (****legendary)
+5
+4/6
+<b>Ranged</b>
+
+
+
+BLOOD TO SHADOW CREEP
+Netural Spell (basic)
+0
+Clone self into a nearby space.
+
+
+
+FLICTERINETH
+Abyssian Minion (***epic)
+4
+3/4
+<b>Opening Gambit</b>: Reactivate your General.
+
+
+
+SELF TARK
+Netural Minion (**rare)
+3
+2/1
+Whenever this minion takes damage, summon a random Pacting bey.
+
+
+
+BRANTERHERAL
+Netural Minion (***epic)
+4
+3/4
+Whenever this minion gains +1/+1.
+
+
+
+CLONE SELF
+Netural Spell (basic)
+0
+Summon a Wind Spell costs 1 less.
+
+
+
+STORM OF SEAL
+Songhai Spell (**rare)
+3
+Deal 2 damage to a minion. Draw a card.
+
+
+
+SUN SARGE
+Netural Minion (**rare)
+4
+1/4
+<b>Opening Gambit</b>: Summon a 1/1 Wraithling nearby your General.
+
+
+
+BROSTHAR BLADE
+Songhai Minion (*common)
+4
+3/3
+<b>Flying</b><br>Whenever this minion takes damage, summon a 1/2 Wraithling, summon a copy of this minion and Generals.
+
+
+
+ASTRAL REMAVER
+Magmar Minion (**rare)
+3
+4/4
+<b>Opening Gambit</b>: Put a random Battle Pet to your General.
+
+
+
+SAND SHACER
+Songhai Minion (*common)
+2
+2/3
+<b>Blood Surge</b>: Summon a 1/2 Wind Dervish with <b>Flying</b> from your action bar.
+
+
+
+SCARNER OF THE MANANER
+Netural Minion (*common)
+2
+1/3
+<b>Provoke</b><br><b>Opening Gambit</b>: Put a copy of the random minions and 	
+
+
+
