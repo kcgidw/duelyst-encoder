@@ -40,8 +40,8 @@ function decodeLine(str) {
 function prettyText(cards) {
 	var txt = '';
 	_.each(cards, (card) => {
-		txt += '' + card.name.toUpperCase() + '\n'
-			+ card.faction + ' ' + card.type + ' ' + card.race
+		txt += '' + card.name.toUpperCase() + '\r\n'
+			+ card.faction + ' ' + card.type + ' ' + card.race + (card.race ? ' ' : '')
 				+ '(' + _.repeat('*', card.rarity) + card.rarityName + ')\n'
 			+ card.cost + '\n'
 			+ (card.attack || card.health ? card.attack + '/' + card.health + '\n' : '')
@@ -52,6 +52,7 @@ function prettyText(cards) {
 
 (function go() {
 	var infile = argv._[0];
+	var writeJson = argv.json;
 	var outfileDecoded = argv._[1] || infile + '_decoded.json';
 	var outfilePretty = argv._[1]  || infile + '_pretty.txt';
 
@@ -64,7 +65,7 @@ function prettyText(cards) {
 		_.remove(cards, (card) => (card === undefined));
 
 		var cardsJson = JSON.stringify({cards: cards}, null, 2);
-		fs.writeFile(outfileDecoded, cardsJson);
+		if(writeJson) fs.writeFile(outfileDecoded, cardsJson);
 
 		var cardsPretty = prettyText(cards);
 		fs.writeFile(outfilePretty, cardsPretty);

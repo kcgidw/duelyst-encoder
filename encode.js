@@ -3,6 +3,12 @@ var argv = require('optimist').argv;
 var fs = require("fs");
 var util = require('./util');
 
+function rateCards(set) {
+	return _.map(set, function rate(card) {
+		return card.rarity + (card.race ? 3 : 0) + (card.description.length > 20 ? 3 : 0);
+	});
+}
+
 function encodeCard(card) {
 	var str = "";
 
@@ -20,6 +26,7 @@ function encodeCard(card) {
 	_.each(util.fields, prop => {
 		str += card[prop] + "|";
 	});
+
 	return str;
 };
 
@@ -31,6 +38,7 @@ function encodeCard(card) {
 
 	var input = require('./' + infile);
 	var cardData = input.cardData;
+
 
 	// convert each card obj into a line of text
 
