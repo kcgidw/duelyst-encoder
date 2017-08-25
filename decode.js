@@ -45,7 +45,7 @@ function prettyText(cards) {
 				+ '(' + _.repeat('*', card.rarity) + card.rarityName + ')\n'
 			+ card.cost + '\n'
 			+ (card.attack || card.health ? card.attack + '/' + card.health + '\n' : '')
-			+ card.description + '\n\n\n\n'
+			+ card.description + '\n\n\n'
 	});
 	return txt;
 }

@@ -70,12 +70,6 @@ Neutral Minion (****legendary)
 3/4
 <b>Opening Gambit</b>: Whenever you summon a minion, this minion gains +1 Attack.
 
-SAND HILER
-Neutral Minion (*common)
-4
-3/4
-<b>Opening Gambit</b>: Summon a 2/4 Wraithling on the space.
-
 SARDION SUNTER
 Neutral Minion (***epic)
 6
@@ -88,12 +82,6 @@ Neutral Minion (****legendary)
 3/2
 <b>Opening Gambit</b>: Deal 2 damage to anything.
 
-MARTHING FORBEMINION
-Neutral Minion (***epic)
-2
-3/3
-<b>Dying Wish</b>: Deal 2 damage to a minion.
-
 CISTAL CASTIRE
 Neutral Minion (****legendary)
 6
@@ -101,12 +89,6 @@ Neutral Minion (****legendary)
 <b>Brovok</b><br><b>Ranged</b><br/><b>Opening Gambit</b>: Summon a spells spells in the enemy Generals.
 
 check1000-temp0.6
-
-KINCERS TERISH
-Neutral Minion (*common)
-4
-3/5
-Your General gains +1 Attack.
 
 TICTER SELER
 Neutral Minion (**rare)
@@ -155,7 +137,6 @@ Neutral Minion (***epic)
 2/3
 <b>Frenzy</b><br><b>Flying</b><br>Whenever your opponent summons a random Magad an entack.
 
-
 LADESEROM
 Neutral Minion (*common)
 5
@@ -167,8 +148,6 @@ SILINGER SAND
 Neutral Spell (basic)
 0
 Summon a friendly minion.
-
-
 
 SOAL WIVER
 Neutral Minion (****legendary)
@@ -215,12 +194,6 @@ SAND SRUDIFONITA
 Magmar Spell (basic)
 1
 Summon a Damage
-
-BRIFNA
-Neutral Minion (**rare)
-3
-1/3
-<b>Opening Gambit</b>: Destroy an enemy.
 
 FARESOLALANIS
 Abyssian Minion (basic)

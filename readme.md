@@ -10,8 +10,6 @@ I know extremely little about machine learning. I'm just using https://github.co
 
 ## Encode
 
-Converts JSON data from 
-
 `node encode <infile> <outfile> [--shuffle] [--copies=X]`
 
 `outfile`: Optional. Specifies outfile path and name
@@ -24,18 +22,24 @@ Converts JSON data from
 
 Decodes text file outputted by RNN back into JSON, as well as a prettier text file
 
-`node decode <infile> <outfile>`
+`node decode <infile> <outfile> [--json]`
 
 `outfile`: Optional. Specifies outfile path and name
 
-## Interesting Notes
+`json`: Creates a json file along with the text file.
 
-At 1000 iterations...
+## Journal
+
+At ~1000 iterations...
 
 * Torch-RNN figures out very quickly that many minions are "noun-verbers".
 * "Sand", "blood", and "shadow" show up very often. Go figure!
 
-## RNN notes
+At ~5000 iterations...
+
+* Looks like towards the end of the training, the NN gets less creative. I should limit the number of "boring" cards in the dataset and maybe play around w/ dropout too.
+* It has a hard time understanding that certain things belong to certain factions/tribes... I might experiment with a new encoding format that would add more weight to factions/tribes.
+* The NN still has a heavy bias toward Neutral minions. Not sure how to counteract this.
 
 Torch-RNN train:
 
@@ -48,3 +52,4 @@ Sample:
 My standard filenaming scheme:
 
 `t[temperature]c[checkpoint]d[dropout]`
+`c[checkpoint]t[temperature]`

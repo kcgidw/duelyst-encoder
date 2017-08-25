@@ -3,9 +3,16 @@ var argv = require('optimist').argv;
 var fs = require("fs");
 var util = require('./util');
 
+function rate(card) {
+	if(card.description.length === 0) {
+		return 0;
+	}
+	return card.rarity + (card.race ? 3 : 0) + (card.description.length > 20 ? 3 : 0);
+}
+
 function rateCards(set) {
-	return _.map(set, function rate(card) {
-		return card.rarity + (card.race ? 3 : 0) + (card.description.length > 20 ? 3 : 0);
+	_.each(set, (card) => {
+		set.interest = rate(card);
 	});
 }
 

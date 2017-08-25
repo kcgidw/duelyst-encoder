@@ -13,6 +13,69 @@ Netural Minion (*common)
 4/3
 <b>Provoke</b><br><b>Ranged</b><br><b>Ranged</b><br><b>Ranged</b><br><b>Frenzy</b><br><b>Provoke</b><br><b>Spannet Gamit</b>: Summon a 2/1 Irun Summon a 3/1 Proinder Summon a Wraithling with <b>Shadow Welly</b>.
 
+=====================================================================
+c500t0.6
+
+SHADOW TALK
+Netural Minion (***epic)
+3
+4/3
+<b>Frendy</b>
+
+SPERN
+Songhai Minion (***epic)
+4
+4/1
+<b>Bond</b>: Phish the action bar.
+
+PALGASSES SURGE
+Netural Minion (*common)
+1
+1/2
+<b>Opening Gambit</b>: Destroy the enemy General gain +2 Attack.
+
+SUSS
+Netural Minion (***epic)
+4
+1/4
+<b>Opening Gambit</b>: Deal 1 damage to a damage to anything to card, this damage, deal 2 damage to a land minion.
+
+SPON SACGER
+Songhai Minion (*common)
+4
+4/2
+<b>Rhage</b>
+
+LOZH SHADON
+Vetruvian Spell (*common)
+1
+Deal 2 damage to an enemy minion nearby your action bar.
+
+SART EMY MANTER
+Vanar Minion (***epic)
+4
+3/4
+<b>Frenzy</b><br><b>Opening Gambit</b>: Draw a card.
+
+SHILIST SELRIHROR
+Netural Minion (basic)
+2
+3/3
+<b>Reachtifile</b>
+
+SRAAP OF EPELSY
+Abyssian Spell (basic)
+3
+Destroy a turn, deal 1 damage to it that minion gains +1/+1 and bats.
+
+SAVERS SFRATE
+Netural Minion (*common)
+3
+3/1
+<b>Flying</b><br><b>Frenzy</b><br>Summon a random Wellint.
+
+
+=====================================================================
 c3000t0.5
 
 
@@ -22,19 +85,15 @@ Netural Minion (**rare)
 2/4
 <b>Opening Gambit</b>: Turn a nearby minion to a friendly minion. Draw a card.
 
-LASTING SPERM
-Lyonar Spell (**rare)
-2
-Choose an enemy minion with 2 or less Attack.
-
-
-
 DOURGE SEAL
 Lyonar Spell (***epic)
 1
 Restore 2 Health to all enemy minions.
 
-
+SHADOW STRAK
+Lyonar Artifact (**rare)
+1
+Your General gains +1 Attack. Draw a card.
 
 FORCANAST
 Magmar Minion (****legendary)
@@ -42,14 +101,11 @@ Magmar Minion (****legendary)
 5/5
 <b>Opening Gambit</b>: Summon a 3/1 Frenyst Golem and nearby enemy minion.
 
-
-
 BLINDSATING STRAK
 Lyonar Minion (basic)
 2
 2/3
 <b>Blood Surge</b>: Draw a card.
-
 
 SURGE SORLICKER
 Netural Minion (**rare)
@@ -57,13 +113,8 @@ Netural Minion (**rare)
 3/1
 <b>Dying Wish</b>: Summon a 1/1 Wraithling with <b>Summon Dervish</b> from your turn, restore 1 Health to your General.
 
-
-
-CLONE SELF
-Netural Spell (basic)
-0
-Clone self into a nearby space.
-
+=====================================================================
+c3000t0.7
 
 SUN SINBERICERTITY
 Abyssian Minion (***epic)
@@ -71,14 +122,11 @@ Abyssian Minion (***epic)
 2/4
 <b>Opening Gambit</b>: Deal 2 damage to the enemy General for each friendly minion.
 
-
-
 LADASTARMER
 Netural Minion Vespyr (**rare)
 3
 4/3
 <b>Opening Gambit</b>: Deal 1 damage to all enemies around it.
-
 
 VARAL ROW
 Netural Minion (****legendary)
@@ -86,15 +134,8 @@ Netural Minion (****legendary)
 5/3
 Whenever you cast a spell, your General +1 Health.
 
-
-MIRLFIMERTERGER
-Netural Minion (**rare)
-6
-7/7
-<b>Dying Wish</b>: Restore 2 Health to your General.
-
+=====================================================================
 v5450t0.5
-
 
 CRANTICTING SAND
 Abyssian Minion (*common)
@@ -102,27 +143,21 @@ Abyssian Minion (*common)
 3/2
 <b>Rush</b><br><b>Flying</b><br><b>Opening Gambit</b>: Summon a 2/1 Iron Dervish on a random space nearby your General.
 
-
 ARCCERAL
 Netural Minion (****legendary)
 7
 4/2
 <b>Opening Gambit</b>: Summon a nearby minion.
 
-
-
 RECERITY SHADOW CREEP
 Songhai Spell (*common)
 1
 Deal 4 damage to a minion. Draw a card.
 
-
-
 FRATTURE STORM
 Abyssian Spell (****legendary)
 7
 Deal 1 damage to an enemy minion.
-
 
 SOROURA
 Magmar Minion (**rare)
@@ -130,14 +165,10 @@ Magmar Minion (**rare)
 3/4
 <b>Opening Gambit</b>: Summon a 2/2 Wind Dervish with <b>Opening Gambit</b>: Summon a 1/2 Wraithling, draw a card.
 
-
-
 ABALISTER SARITING
 Abyssian Spell (***epic)
 3
 Destroy an enemy minion and General.
-
-
 
 FLICTERINETH
 Abyssian Minion (***epic)
@@ -145,6 +176,7 @@ Abyssian Minion (***epic)
 3/4
 <b>Opening Gambit</b>: Reactivate your General.
 
+=====================================================================
 c5450t0.6
 
 SIGHGONS
@@ -153,13 +185,10 @@ Netural Minion (****legendary)
 4/3
 <b>Blood Surge</b>: Summon a Wild Dervish with <b>Flying</b> and <b>Flying</b>.
 
-
 AFCERIN TARE
 Songhai Spell (**rare)
 3
 Summon a Wraithling on your action bar.
-
-
 
 BLADESSING FLEVER
 Netural Minion (****legendary)
@@ -167,10 +196,8 @@ Netural Minion (****legendary)
 1/2
 <b>Blood Surge</b>: Deal 4 damage to all enemies.
 
-
+=====================================================================
 c5450t0.8
-
-
 
 ACTICAL ACTIINAT
 Magmar Minion (****legendary)
@@ -178,14 +205,11 @@ Magmar Minion (****legendary)
 3/4
 <b>Opening Gambit</b>: Spell all cards from your deck.
 
-
-
 CHAX OLASET
 Songhai Minion (basic)
 2
 1/2
 <b>Provoke</b>, <b>Provoke</b><br>Deals double damage to Generals.
-
 
 WROATH EDERBIK
 Netural Minion (****legendary)
