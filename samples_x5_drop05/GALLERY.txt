@@ -176,6 +176,14 @@ Abyssian Minion (***epic)
 3/4
 <b>Opening Gambit</b>: Reactivate your General.
 
+CEPULPER FURIENTER
+Vanar Minion (*common)
+5
+2/4
+<b>Provoke</b><br><b>Opening Gambit</b>: Deal 2 damage to a random enemy.
+
+
+
 =====================================================================
 c5450t0.6
 
@@ -217,3 +225,9 @@ Netural Minion (****legendary)
 1/2
 <b>Forcefield</b><br>Whenever your opponent summons a minion, deal 2 damage to your General.
 
+
+PHANDACELER
+Vetruvian Minion (***epic)
+6
+3/6
+<b>Opening Gambit</b>: Give a friendly minion +5 Attack.

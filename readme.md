@@ -1,4 +1,4 @@
-**See 'GALLERY.txt' for a nice selection of RNN-generated Duelyst cards!**
+**See the 'GALLERY.txt' files for a selection of RNN-generated Duelyst cards!**
 
 You can see the "pretty" files in the samples/ folder for the full results.
 
@@ -6,7 +6,7 @@ You can see the "pretty" files in the samples/ folder for the full results.
 
 I know extremely little about machine learning. I'm just using https://github.com/jcjohnson/torch-rnn and following the instructions!
 
-**duelyst-rnn-encoder** is only here for encoding JSON data from https://duelyststats.info/scripts/carddata/cardData.json to a simpler text file for RNN. You should be able to tweak the code for other card games pretty easily.
+**duelyst-rnn-encoder** is only here for encoding JSON data from https://duelyststats.info/scripts/carddata/cardData.json to a simpler text file for RNN, as inspired by https://github.com/billzorn/mtgencode. You should be able to tweak the code for other card games pretty easily.
 
 ## Encode
 

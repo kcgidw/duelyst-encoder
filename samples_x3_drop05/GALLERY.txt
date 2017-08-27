@@ -176,6 +176,14 @@ Neutral Minion (***epic)
 2/1
 <b>Blood Surge</b>: Deal 1 damage to all enemies.
 
+
+THERIRE
+Abyssian Minion (**rare)
+4
+5/6
+<b>Opening Gambit</b>: Deal 1 damage to all friendly minions in the enemy General.
+
+
 checkpoint1000-temp0.8
 
 WOORBONE SURON
@@ -200,3 +208,21 @@ Abyssian Minion (basic)
 1
 1/3
 <b>Opening Gambit</b>: Deal 2 damage to the enemy General.
+
+PUNDING SEURIER
+Neutral Minion (***epic)
+4
+1/7
+<b>Brove</b>
+
+
+ANMALER ACTACTE
+Vanar Minion (**rare)
+2
+1/4
+Your opponend's stiver ot the tartitactsyrnged this minion with <b>Sutle</b>: Gore all spaces.
+
+KONE HEARF
+Songhai Spell (**rare)
+3
+Put the enemy General.
